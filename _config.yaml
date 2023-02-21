@@ -3,9 +3,10 @@
 # site properties and page defaults
 title: Grande Flavio Souza
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+logo: images/icon.png
+logo-text: false
 header: 
-footer: images/background.jpg
+footer: images/barra_inferior.jpg
 baseurl:
 
 # site social media and other links
