@@ -21,6 +21,16 @@ body {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
+    padding-top: 110px;
+
+    @media (max-width: 1000px) {
+      padding-top: 156px;
+    }
+  
+    @media (max-width: 700px) {
+      padding-top: 0px;
+    }
+      
   }
 
   section {
