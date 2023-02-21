@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html full=true %}
-{% include navbar-spacer.html home=false %}
+{% include navbar-spacer.html %}
 {% include section.html %}
 
 # <i class="fas fa-feather-alt"></i>Blog
