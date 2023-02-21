@@ -84,6 +84,38 @@ header {
     text-decoration: none;
   }
 
+  .navbar-toggle {
+    display: none;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .navbar-toggle-icon {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin: 5px 0;
+  }
+
+  .nav_row {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    right: -100%;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    transition: right 0.3s ease-in-out;
+  }
+  
+  .nav_row.show {
+    right: 0;
+  }
+
   // screen width where nav bar wraps to under logo
   // adjust based on width of your lab name and nav bar
   @media (max-width: 1000px) {
@@ -94,7 +126,7 @@ header {
   // screen width where logo and nav bar go from horizontal to vertical
   // adjust based on width of your lab name and nav bar
   @media (max-width: 700px) {
-    position: relative;
+    position: absolute;
 
     .logo_row {
       flex-direction: column;
@@ -106,12 +138,18 @@ header {
     }
 
     .nav_row {
-      flex-direction: column;
-      justify-content: center;
+      display:none
+      // flex-direction: column;
+      // justify-content: center;
 
-      .link {
-        width: 100%;
-      }
+      // .link {
+      //   width: 100%;
+      // }
     }
+
+    .navbar-toggle {
+      display: block;
+    }
+
   }
 }
