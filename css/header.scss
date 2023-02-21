@@ -144,6 +144,10 @@ header {
       transition: right 0.3s ease-in-out;
       justify-content: initial;
 
+      &:hover .link {
+        opacity: 1;
+      }
+
       .navbar-close {
         display: block;
         color: black;

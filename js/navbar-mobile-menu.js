@@ -1,6 +1,7 @@
 // Get the elements
 const navbarContainer = document.querySelector('.nav_row');
 const navbarToggle = document.querySelector('.navbar-toggle');
+const navbarClose = document.querySelector('.navbar-close');
 
 // Add an event listener to the toggle button
 navbarToggle.addEventListener('click', function() {
@@ -12,4 +13,8 @@ document.addEventListener('click', function(event) {
     if (!isClickInside) {
         navbarContainer.classList.remove('show');
     }
+});
+
+navbarClose.addEventListener('click', function() {
+    navbarContainer.classList.remove('show');
 });
