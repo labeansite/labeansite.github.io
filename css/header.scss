@@ -143,6 +143,9 @@ header {
       padding: 10px;
       transition: right 0.3s ease-in-out;
       justify-content: initial;
+      -webkit-box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
+      -moz-box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
+      box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
 
       &:hover .link {
         opacity: 1;
