@@ -1,1 +1,5 @@
-<div class="navbar-spacer"></div>
+{%- if include.home -%}
+    <div class="navbar-spacer"></div>
+{%- else -%}
+    <div class="navbar-spacer-home"></div>
+{%- endif -%}

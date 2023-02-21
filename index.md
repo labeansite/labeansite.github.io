@@ -4,6 +4,8 @@ title: Home
 
 {% include section.html full=true %}
 
+{% include navbar-spacer.html home=true %}
+
 {% include bgvideo.html %}
 
 {% include section.html %}

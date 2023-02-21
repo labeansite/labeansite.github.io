@@ -16,3 +16,12 @@
         height: 110px;
     }
 }
+
+.navbar-spacer-home {
+    background-color: black;
+    height: 0px;
+
+    @media (max-width: 700px) {
+        height: 110px;
+    }
+}
