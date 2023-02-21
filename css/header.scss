@@ -100,22 +100,6 @@ header {
     margin: 5px 0;
   }
 
-  .nav_row {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    top: 60px;
-    right: -100%;
-    width: 100%;
-    background-color: #fff;
-    padding: 10px;
-    transition: right 0.3s ease-in-out;
-  }
-  
-  .nav_row.show {
-    right: 0;
-  }
-
   // screen width where nav bar wraps to under logo
   // adjust based on width of your lab name and nav bar
   @media (max-width: 1000px) {
@@ -138,13 +122,19 @@ header {
     }
 
     .nav_row {
-      display:none
-      // flex-direction: column;
-      // justify-content: center;
-
-      // .link {
-      //   width: 100%;
-      // }
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 60px;
+      right: -100%;
+      width: 100%;
+      background-color: #fff;
+      padding: 10px;
+      transition: right 0.3s ease-in-out;
+    }
+    
+    .nav_row.show {
+      right: 0;
     }
 
     .navbar-toggle {
