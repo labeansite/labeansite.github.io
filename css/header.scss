@@ -6,14 +6,19 @@
 @import "mixins";
 
 header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+
+  backdrop-filter: blur(3px);
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
   gap: 20px;
   padding: 30px;
   color: $white;
-  background: $gray-800;
+  background-color: rgba($color: $black, $alpha: 0.55);
   box-shadow: $shadow;
 
   & * {
@@ -71,11 +76,35 @@ header {
     .link:hover {
       opacity: 1;
     }
+
+    .navbar-close {
+      display: none;
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+    }
   }
 
   a {
     color: currentColor;
     text-decoration: none;
+  }
+
+  .navbar-toggle {
+    display: none;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .navbar-toggle-icon-bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px 0;
   }
 
   // screen width where nav bar wraps to under logo
@@ -88,22 +117,55 @@ header {
   // screen width where logo and nav bar go from horizontal to vertical
   // adjust based on width of your lab name and nav bar
   @media (max-width: 700px) {
-    .logo_row {
-      flex-direction: column;
 
-      .logo_text {
-        text-align: center;
-        align-items: center;
-      }
-    }
+    flex-direction: row;
+    align-items: center;
+
+    // .logo_row {
+    //   flex-direction: column;
+
+    //   .logo_text {
+    //     text-align: center;
+    //     align-items: center;
+    //   }
+    // }
 
     .nav_row {
+      display: flex;
       flex-direction: column;
-      justify-content: center;
+      position: absolute;
+      top: 0px;
+      right: -100%;
+      padding: 100px 50px !important;
+      height: 100vh;
+      background-color: #fff;
+      color: black;
+      padding: 10px;
+      transition: right 0.3s ease-in-out;
+      justify-content: initial;
+      -webkit-box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
+      -moz-box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
+      box-shadow: -10px 0px 24px -7px rgba(0,0,0,0.75);
 
-      .link {
-        width: 100%;
+      &:hover .link {
+        opacity: 1;
       }
+
+      .navbar-close {
+        display: block;
+        color: black;
+        position: absolute;
+        right: 30px;
+        top: 30px;
+      }
+    }
+    
+    .nav_row.show {
+      right: 0;
+    }
+
+    .navbar-toggle {
+      display: block;
     }
   }
 }

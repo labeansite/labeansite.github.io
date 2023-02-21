@@ -5,6 +5,10 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
+{% include section.html full=true %}
+{% include navbar-spacer.html %}
+{% include section.html %}
+
 # <i class="fas fa-tools"></i>Tools
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

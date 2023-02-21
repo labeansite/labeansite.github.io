@@ -5,6 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
+{% include section.html full=true %}
+{% include navbar-spacer.html %}
+{% include section.html %}
+
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
