@@ -136,15 +136,20 @@ header {
       position: absolute;
       top: 0px;
       right: -100%;
-      padding: 50px !important;
+      padding: 100px 50px !important;
       height: 100vh;
       background-color: #fff;
       color: black;
       padding: 10px;
       transition: right 0.3s ease-in-out;
+      justify-content: initial;
 
       .navbar-close {
         display: block;
+        color: black;
+        position: absolute;
+        right: 30px;
+        top: 30px;
       }
     }
     
