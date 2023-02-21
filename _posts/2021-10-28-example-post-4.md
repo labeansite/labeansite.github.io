@@ -8,6 +8,6 @@ member: upton-goode
 ASDljgaskdfksdjfnkalsddas fas
 asdfasdfsdfad
 
-![Imagem teste](../images/barra_inferior.jpg)
+![Imagem teste](../../../images/barra_inferior.jpg)
 
 É isso.
