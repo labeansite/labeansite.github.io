@@ -4,7 +4,7 @@ title: Home
 
 {%
   include video.html
-  video="videos/sintese.mp4"
+  url="videos/sintese.mp4"
 %}
 
 # Flavio Lab 3
