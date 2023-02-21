@@ -2,7 +2,11 @@
 title: Home
 ---
 
+{% include section.html full=true %}
+
 {% include bgvideo.html %}
+
+{% include section.html %}
 
 # Flavio Lab 3
 

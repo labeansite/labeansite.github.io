@@ -10,6 +10,8 @@ header {
   width: 100%;
   z-index: 999;
 
+  backdrop-filter: blur(3px);
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -93,7 +95,7 @@ header {
   // adjust based on width of your lab name and nav bar
   @media (max-width: 700px) {
     position: relative;
-    
+
     .logo_row {
       flex-direction: column;
 
