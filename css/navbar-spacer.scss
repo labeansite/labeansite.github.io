@@ -6,13 +6,13 @@
 @import "mixins";
 
 .navbar-spacer {
-    margin-top: 110px;
+    height: 110px;
 
     @media (max-width: 1000px) {
-        margin-top: 156px;
+        height: 156px;
     }
   
     @media (max-width: 700px) {
-        margin-top: 110px;
+        height: 110px;
     }
 }
