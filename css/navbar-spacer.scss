@@ -1,0 +1,18 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.navbar-spacer {
+    height: 110px;
+
+    @media (max-width: 1000px) {
+        height: 156px;
+    }
+  
+    @media (max-width: 700px) {
+        height: 0px;
+    }
+}

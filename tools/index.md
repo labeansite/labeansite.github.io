@@ -5,6 +5,8 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
+{% include navbar-spacer.html %}
+
 # <i class="fas fa-tools"></i>Tools
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -5,6 +5,8 @@ nav:
   tooltip: Published works
 ---
 
+{% include navbar-spacer.html %}
+
 # <i class="fas fa-microscope"></i>Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

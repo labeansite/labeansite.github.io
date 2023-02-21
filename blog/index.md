@@ -5,6 +5,8 @@ nav:
   tooltip: Musings and miscellany
 ---
 
+{% include navbar-spacer.html %}
+
 # <i class="fas fa-feather-alt"></i>Blog
 
 {% include section.html %}
