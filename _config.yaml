@@ -4,7 +4,7 @@
 title: Grande Flavio Souza
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
-header: images/background.jpg
+header: 
 footer: images/background.jpg
 baseurl:
 
