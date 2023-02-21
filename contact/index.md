@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html full=true %}
-{% include navbar-spacer.html %}
+{% include navbar-spacer.html home=false %}
 {% include section.html %}
 
 # <i class="fas fa-envelope"></i>Contact
