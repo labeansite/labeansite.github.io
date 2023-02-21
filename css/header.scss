@@ -76,14 +76,6 @@ header {
     .link:hover {
       opacity: 1;
     }
-
-    .navbar-close {
-      display: none;
-      background: none;
-      border: none;
-      padding: 0;
-      cursor: pointer;
-    }
   }
 
   a {
@@ -105,6 +97,14 @@ header {
     height: 3px;
     background-color: white;
     margin: 5px 0;
+  }
+
+  .navbar-close {
+    display: none;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
   }
 
   // screen width where nav bar wraps to under logo
@@ -143,9 +143,6 @@ header {
       padding: 10px;
       transition: right 0.3s ease-in-out;
 
-      .navbar-close {
-        display: close;
-      }
     }
     
     .nav_row.show {
@@ -154,6 +151,10 @@ header {
 
     .navbar-toggle {
       display: block;
+    }
+    
+    .navbar-close {
+      display: close;
     }
   }
 }
