@@ -29,6 +29,9 @@
     {% endif %}
   </a>
   <nav class="nav_row">
+    <button class="navbar-close">
+      <i class="fa-solid fa-x"></i>
+    <button class="navbar-toggle">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
     {%- for page in pages -%}
       {%- if page.nav -%}
@@ -36,9 +39,6 @@
       {%- endif -%}
     {%- endfor -%}
   </nav>
-  <button class="navbar-close">
-    <i class="fa-solid fa-x"></i>
-  <button class="navbar-toggle">
   <button class="navbar-toggle">
     <span class="navbar-toggle-icon-bar"></span>
     <span class="navbar-toggle-icon-bar"></span>
