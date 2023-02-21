@@ -2,9 +2,7 @@
 title: Home
 ---
 
-{% include section.html %}
-
-<!-- {% include navbar-spacer.html home=true %} -->
+{% include section.html full=true %}
 
 {% include bgvideo.html %}
 
