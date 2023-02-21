@@ -2,10 +2,6 @@
 title: Home
 ---
 
-{%
-  include bgvideo.html
-%}
-
 # Flavio Lab 3
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
