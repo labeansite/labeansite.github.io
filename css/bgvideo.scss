@@ -1,6 +1,10 @@
 ---
 ---
 
+@import "palettes";
+@import "theme";
+@import "mixins";
+
 .wrapper-bgvideo {
     object-fit: cover;
 }
@@ -21,13 +25,25 @@
     flex-direction: column;
 }
 
-.bgvideo-title {
+.bgvideo-title-text-container {
     flex-grow: 1;
     display: flex;
     justify-content: center;
     align-items: center;
 
     color: white;
+}
+
+.bgvideo-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-bar {
+    width: 100px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
 }
 
 .bgvideo::-webkit-media-controls {
