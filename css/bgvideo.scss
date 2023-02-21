@@ -1,9 +1,22 @@
 ---
 ---
 
+.wrapper-bgvideo {
+    object-fit: cover;
+}
+
 .bgvideo {
     max-height: 100vh;
-    object-fit: cover;
+    position: absolute;
+}
+
+.bgvideo-title {
+    width: 100%;
+    height: 100%;
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .bgvideo::-webkit-media-controls {
