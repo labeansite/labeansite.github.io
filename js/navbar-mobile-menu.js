@@ -6,3 +6,10 @@ const navbarToggle = document.querySelector('.navbar-toggle');
 navbarToggle.addEventListener('click', function() {
   navbarContainer.classList.toggle('show');
 });
+
+document.addEventListener('click', function(event) {
+    const isClickInside = navbarContainer.contains(event.target) || navbarToggle.contains(event.target);
+    if (!isClickInside) {
+        navbarContainer.classList.remove('show');
+    }
+});
