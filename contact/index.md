@@ -5,7 +5,9 @@ nav:
   tooltip: Email, address, and location
 ---
 
+{% include section.html full=true %}
 {% include navbar-spacer.html %}
+{% include section.html %}
 
 # <i class="fas fa-envelope"></i>Contact
 

@@ -5,7 +5,9 @@ nav:
   tooltip: Published works
 ---
 
+{% include section.html full=true %}
 {% include navbar-spacer.html %}
+{% include section.html %}
 
 # <i class="fas fa-microscope"></i>Research
 

@@ -5,7 +5,9 @@ nav:
   tooltip: About our team
 ---
 
+{% include section.html full=true %}
 {% include navbar-spacer.html %}
+{% include section.html %}
 
 # <i class="fas fa-users"></i>Team
 

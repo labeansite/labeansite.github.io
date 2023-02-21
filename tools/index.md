@@ -5,7 +5,9 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
+{% include section.html full=true %}
 {% include navbar-spacer.html %}
+{% include section.html %}
 
 # <i class="fas fa-tools"></i>Tools
 
