@@ -11,8 +11,13 @@
 
 .bgvideo {
     max-height: 100vh;
-    min-height: 45vh;
+    min-height: 100vh;
     object-fit: cover;
+    vertical-align: middle;
+    
+    @media (max-width: 1000px) {
+        min-height: 45vh;
+    }
 }
 
 .bgvideo-title-container {
@@ -50,6 +55,24 @@
     h2 {
         font-size: calc( 1.5*(1vw + 1vh + 0.5vmin) );
     }
+}
+
+.video-scroll-button-container {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    @media (max-width: 1000px) {
+        display: none;
+    }
+}
+
+.video-scroll-button {
+    background-color: white;
+    width: 50px;
+    height: 75px;
 }
 
 .title-bar {
