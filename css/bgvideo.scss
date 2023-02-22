@@ -5,8 +5,14 @@
 @import "theme";
 @import "mixins";
 
+:root {
+    --navbar-height: 0px;
+}
+
 .wrapper-bgvideo {
     object-fit: cover;
+    
+    margin-top: calc(-1 * var(--navbar-height));
 }
 
 .bgvideo {
