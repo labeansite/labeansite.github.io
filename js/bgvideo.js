@@ -5,7 +5,7 @@ const navbar = document.querySelector('header');
 const videoWrapper = document.querySelector('.wrapper-bgvideo')
 
 // add a click event listener to the button
-button.addEventListener('click', () => {
+button.addEventListener('mouseenter', () => {
     // scroll to the next section
     window.scrollTo({
         top: window.pageYOffset - navbar.getBoundingClientRect().height + videoWrapper.getBoundingClientRect().bottom,
