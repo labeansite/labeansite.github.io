@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 # <i class="fas fa-users"></i>Team

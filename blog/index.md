@@ -1,8 +1,8 @@
 ---
 title: Blog
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 2
+  tooltip: News
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog

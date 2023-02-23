@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Facilities
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: Equipments and infrastructure
 ---
 
 # <i class="fas fa-tools"></i>Tools
