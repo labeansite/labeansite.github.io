@@ -1,4 +1,4 @@
-const button = document.querySelector('.video-scroll-button');
+const button = document.querySelector('.video-scroll-button-container');
 
 const navbar = document.querySelector('header');
 
