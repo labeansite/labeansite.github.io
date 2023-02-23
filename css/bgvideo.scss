@@ -5,8 +5,14 @@
 @import "theme";
 @import "mixins";
 
+:root {
+    --navbar-height: 0px;
+}
+
 .wrapper-bgvideo {
     object-fit: cover;
+    
+    margin-top: calc(-1 * var(--navbar-height));
 }
 
 .bgvideo {
@@ -60,9 +66,9 @@
 .video-scroll-button-container {
     position: absolute;
     bottom: 25px;
-    width: 100%;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 
     @media (max-width: 1000px) {
         display: none;
@@ -70,9 +76,10 @@
 }
 
 .video-scroll-button {
-    background-color: white;
-    width: 50px;
-    height: 75px;
+    color: white;
+    opacity: 0.7;
+    font-size: 50px;
+    margin-top: -20px;
 }
 
 .title-bar {

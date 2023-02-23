@@ -6,7 +6,8 @@
 @import "mixins";
 
 header {
-  position: fixed;
+  position: sticky;
+  top: 0;
   width: 100%;
   z-index: 999;
 
@@ -120,15 +121,6 @@ header {
 
     flex-direction: row;
     align-items: center;
-
-    // .logo_row {
-    //   flex-direction: column;
-
-    //   .logo_text {
-    //     text-align: center;
-    //     align-items: center;
-    //   }
-    // }
 
     .nav_row {
       display: flex;

@@ -4,11 +4,6 @@ nav:
   order: 3
   tooltip: About our team
 ---
-
-{% include section.html full=true %}
-{% include navbar-spacer.html %}
-{% include section.html %}
-
 # <i class="fas fa-users"></i>Team
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -5,10 +5,6 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-{% include section.html full=true %}
-{% include navbar-spacer.html %}
-{% include section.html %}
-
 # <i class="fas fa-feather-alt"></i>Blog
 
 {% include section.html %}
