@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 2
-  tooltip: News
+  tooltip: News, events and more
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
