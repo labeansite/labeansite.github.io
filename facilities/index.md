@@ -2,7 +2,7 @@
 title: Facilities
 nav:
   order: 3
-  tooltip: Equipments and infrastructure
+  tooltip: Our infrastructure
 ---
 
 # <i class="fas fa-tools"></i>Tools
