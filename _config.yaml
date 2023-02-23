@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-title: Grande Flavio Souza
+title: Flavio Souza
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/icon.png
 logo-text: false
@@ -12,8 +12,6 @@ baseurl:
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
