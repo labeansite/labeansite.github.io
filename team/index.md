@@ -17,19 +17,19 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="ex_member: false"
 %}
+{:.center}
+
+{% include section.html %}
+
+### Ex-members
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
+  filters="ex_member: true"
 %}
 {:.center}
 

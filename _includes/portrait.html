@@ -1,8 +1,4 @@
-{%- if include.style == "small" -%}
-  {%- assign width = 100 -%}
-{%- else -%}
-  {%- assign width = 150 -%}
-{%- endif -%}
+
 
 {%- assign emptyarray = "" | split: "," -%}
 
@@ -18,7 +14,15 @@
 
 {%- assign url = member.url | default: "" -%}
 
+{%- assign ex_member = member.ex_member | default: false -%}
+
+{%- if ex_member -%}
+  {%- assign width = 100 -%}
+{%- else -%}
+  {%- assign width = 150 -%}
+{%- endif -%}
 {::nomarkdown}
+
 <a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
 
   {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
@@ -47,9 +51,11 @@
 
   {%- assign description = member.description | default: "" -%}
   {%- if description -%}
-    <span class="portrait_description">
-      {{ description }}
-    </span>
+    {%- unless ex_member -%}
+      <span class="portrait_description">
+        {{ description }}
+      </span>
+    {%- endunless -%}
   {%- endif -%}
 
 </a>
