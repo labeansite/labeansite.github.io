@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: News
 nav:
-  order: 2
-  tooltip: News, events and more
+  order: 1
+  tooltip: Posts, events and more
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
