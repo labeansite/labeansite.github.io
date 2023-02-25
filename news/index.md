@@ -5,7 +5,7 @@ nav:
   tooltip: Posts, events and more
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>News
 
 {% include section.html %}
 
