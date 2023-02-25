@@ -1,6 +1,6 @@
 ---
 name: Upton O. Goode
-image: images/member.jpg
+image: images/team/member.jpg
 description: Bone Investigator
 role: undergrad
 ex_member: false

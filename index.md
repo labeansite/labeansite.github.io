@@ -37,7 +37,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/site/photo.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/site/photo.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/site/photo.jpg"
   link="team"
   title="Our Team"
   text=text
