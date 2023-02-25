@@ -1,6 +1,6 @@
 ---
 name: Felix Cited
-image: images/member.jpg
+image: images/team/member.jpg
 description: Treat Researcher
 role: phd
 ex_member: false

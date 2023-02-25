@@ -72,7 +72,7 @@ Texto após outra quebra de seção
 
 {%
   include figure.html
-  image="images/barra_inferior.jpg"
+  image="images/posts/example-post-4/img.png"
   caption="Legenda da foto"
 %}
 

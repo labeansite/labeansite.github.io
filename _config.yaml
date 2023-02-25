@@ -3,10 +3,10 @@
 # site properties and page defaults
 title: Flavio Souza
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/icon.png
+logo: images/site/icon.png
 logo-text: false
 header: 
-footer: images/barra_inferior.jpg
+footer: images/site/barra_inferior.jpg
 baseurl:
 
 # site social media and other links
