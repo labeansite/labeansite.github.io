@@ -65,3 +65,51 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: doi:10.1016/s1872-2067(21)63973-6
+  title: Solution chemistry back-contact FTO/hematite interface engineering for efficient
+    photocatalytic water oxidation
+  authors:
+  - Karen Cristina Bedin
+  - "Beatriz Mouri\xF1o"
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - "Jo\xE3o Batista Souza Junior"
+  - Gabriel Trindade dos Santos
+  - Jefferson Bettini
+  - Carlos Alberto Rodrigues Costa
+  - Lionel Vayssieres
+  - Flavio Leandro Souza
+  publisher: Chinese Journal of Catalysis
+  date: '2022-05-01'
+  link: https://doi.org/grt3g7
+  _cache: 3bd34bc4a63d69d219d678c278004512cbe23bcaf8ae90cf53df995137163332
+- id: doi:10.1002/cnma.202100510
+  title: "Binary Transition Metal NiFeO\n            <sub>x</sub>\n            and\
+    \ CoFeO\n            <sub>x</sub>\n            Cocatalysts Boost the Photodriven\
+    \ Water Oxidation over Fe\n            <sub>2</sub>\n            TiO\n       \
+    \     <sub>5</sub>\n            Nanoparticles"
+  authors:
+  - Mauricio A. Melo
+  - Higor A. Centurion
+  - Giovanna Machado
+  - Flavio L. Souza
+  - "Renato V. Gon\xE7alves"
+  publisher: ChemNanoMat
+  date: '2022-02-25'
+  link: https://doi.org/grt3hb
+  _cache: aa856bbd147f7cdead36fb1f9056999039f4fac9a59526394c48432b17a5b41b
+- id: doi:10.1149/2162-8777/ac6114
+  title: On the Effect of Thermal Processing on Sn Diffusion and Efficiency Enhancement
+    in Hematite/FTO Photoanodes
+  authors:
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - "Beatriz Mouri\xF1o"
+  - "Andr\xE9 L. M. Freitas"
+  - Carlos A. R. Costa
+  - Elcio L Pires
+  - "Renato V. Gon\xE7alves"
+  - Lionel Vayssieres
+  - Flavio L. Souza
+  publisher: ECS Journal of Solid State Science and Technology
+  date: '2022-04-01'
+  link: https://doi.org/grt3hc
+  _cache: fefc476c324c44eeba919ffa9b0d978ce52a024f83020241626a5b37e7e9fcbb
