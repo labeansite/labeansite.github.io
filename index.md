@@ -17,7 +17,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include figure.html
-  image="images\site\selecao-brasileira.jpg"
+  image="images/site/selecao-brasileira.jpg"
   width="100%"
 %}
 
