@@ -27,7 +27,7 @@
   {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
     <div class="citation_image">
-      <a href="{{ link }}">
+      <a href="{{ link }}" target="_blank">
         <img
           src="{{ image | relative_url }}"
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
@@ -42,14 +42,14 @@
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
     <div class="citation_title">
-      <a href="{{ link }}">
+      <a href="{{ link }}" target="_blank">
         {{ title }}
       </a>
     </div>
 
     {%- assign authors = citation.authors | default: emptyarray -%}
     <div
-      class="citation_authors truncate"
+      class="citation_authors"
       tabindex="0"
     >
       {{ authors | join: ", " }}
