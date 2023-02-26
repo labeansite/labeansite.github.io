@@ -6,18 +6,22 @@ title: Home
 
 {% include bgvideo.html %}
 
-{% include section.html %}
+{% include section.html dark=true %}
 
 # Slogan do grupo
 
 Texto no estilo "quem somos nós" acompanhado de foto do grupo todo. (3 a 5 linhas).
 
-{% include section.html full=true %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include teamphoto.html image="images/selecao-brasileira.jpg" %}
+{%
+  include figure.html
+  image="images\site\selecao-brasileira.jpg"
+  width="100%"
+%}
 
 {% include section.html %}
-
 # Highlights
 
 {% capture text %}
