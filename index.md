@@ -6,7 +6,7 @@ title: Home
 
 {% include bgvideo.html %}
 
-{% include section.html dark=true %}
+{% include section.html %}
 
 # Slogan do grupo
 
