@@ -29,6 +29,8 @@ body {
     padding: 60px Max(40px, calc((100% - #{$page}) / 2));
     text-align: center;
 
+    color: white;
+
     &[data-full="true"] {
       padding: 0;
     }
@@ -38,7 +40,7 @@ body {
     background: $gray-400;
   }
 
-  section:nth-of-type(even) {
+  section:nth-of-type(odd) {
     background: $gray-700;
   }
 
