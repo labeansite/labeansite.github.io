@@ -1,39 +1,34 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
-
 - id: doi:10.1016/s1872-2067(21)63973-6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1872206721639736-fx1.jpg
+  tags:
+    - tag teste
 
 - id: doi:10.1002/cnma.202100510
+  image: https://onlinelibrary.wiley.com/cms/asset/11e367a3-a174-4e2c-852e-7d6b622f197f/cnma202100510-toc-0001-m.jpg
 
 - id: doi:10.1149/2162-8777/ac6114
+
+- id: doi:10.3390/nano12121957
+  image: https://www.mdpi.com/nanomaterials/nanomaterials-12-01957/article_deploy/html/images/nanomaterials-12-01957-g001-550.jpg
+#  tags:
+#    - tag teste
+
+- id: doi:10.1039/D0RA10176A
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0RA10176A&imageInfo.ImageIdentifier.Year=2021 
+#  tags:
+#    - tag teste
+
+- id: doi:10.1021/acs.jpcc.0c11397
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.0c11397/asset/images/medium/jp0c11397_0009.gif
+#  tags:
+#    - tag teste
+
+- id: doi:10.1063/5.0049914
+  image: https://www.researchgate.net/profile/Felipe-Crasto-De-Lima/publication/351298916/figure/fig1/AS:1019584140279808@1620099210127/a-HAADF-image-of-a-grain-boundary-region-of-a-Sb-doped-hematite-system-The-bright.png 
+#  tags:
+#    - tag teste
+
+- id: doi:10.1021/acs.chemmater.0c04305
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.0c04305/asset/images/medium/cm0c04305_0010.gif 
+#  tags:
+#    - tag teste
