@@ -68,6 +68,11 @@ header {
     .link {
       margin: 0;
       font-size: 1rem;
+      
+      span {
+        font-size: 1.25em;
+        font-family:"Montserrat",sans-serif;
+      }
     }
 
     &:hover .link {
