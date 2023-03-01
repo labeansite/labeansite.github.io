@@ -5,7 +5,7 @@
 
 # labeansite's Website
 
-An engaging 1-3 sentence description of your lab.
+An engaging 1-3 sentence description of your lab. Teste.
 
 {% include section.html %}
 
