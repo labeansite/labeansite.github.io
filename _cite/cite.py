@@ -89,9 +89,16 @@ for a in range(0, len(sources)):
     if not id:
         continue
     for b in range(a + 1, len(sources)):
-        if sources[b].get("id") == id:
-            sources[a].update(sources[b])
-            sources[b] = {}
+        idb = sources[b].get("id")
+        if not idb:
+            continue
+        if idb.lower() == id.lower():
+            if sources[b].get("file") == "sources.yaml":
+                sources[a].update(sources[b])
+                sources[b] = {}
+            else:
+                sources[b].update(sources[a])
+                sources[a] = {}
 sources = [entry for entry in sources if entry]
 
 
