@@ -16,6 +16,7 @@ $wrap: 800px;
 .citation-image {
   position: relative;
   width: $thumb-size;
+  min-width: $thumb-size;
   min-height: $thumb-size;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
@@ -24,11 +25,12 @@ $wrap: 800px;
 .citation-image img {
   position: absolute;
   inset: 0;
-  width: 100%;
+  width: $thumb-size;
   aspect-ratio: 1/1;
   object-fit: cover;
   top: 50%;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%,-50%);
   padding: 15px;
 }
 
