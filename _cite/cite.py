@@ -121,7 +121,7 @@ for index, source in enumerate(sources):
 
     # source id
     id = source.get("id", "").strip()
-
+    
     # Manubot doesn't work without an id
     if id:
         log("Using Manubot to generate citation", 1)
@@ -139,6 +139,7 @@ for index, source in enumerate(sources):
             # (Manubot might not know how to cite every type of source from orcid, e.g.)
             else:
                 log(e, 3, "WARNING")
+                continue
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
