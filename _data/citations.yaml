@@ -1,5 +1,4 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
-# See https://github.com/greenelab/lab-website-template/wiki/Citations
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1016/s1872-2067(21)63973-6
   title: Solution chemistry back-contact FTO/hematite interface engineering for efficient
@@ -20,7 +19,8 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1872206721639736-fx1.jpg
   tags:
   - tag teste
-  _cache: 7e959767092deffa88b5194b88997072d31a5c973a7b778526a051a102e6efa9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cnma.202100510
   title: "Binary Transition Metal NiFeO\n            <sub>x</sub>\n            and\
     \ CoFeO\n            <sub>x</sub>\n            Cocatalysts Boost the Photodriven\
@@ -36,7 +36,8 @@
   date: '2022-02-25'
   link: https://doi.org/grt3hb
   image: https://onlinelibrary.wiley.com/cms/asset/11e367a3-a174-4e2c-852e-7d6b622f197f/cnma202100510-toc-0001-m.jpg
-  _cache: fa4c4444e227c5156a78a0e2c91f83cd8dbc27e029fcfc2b292a48e68f8485b4
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1149/2162-8777/ac6114
   title: On the Effect of Thermal Processing on Sn Diffusion and Efficiency Enhancement
     in Hematite/FTO Photoanodes
@@ -52,7 +53,8 @@
   publisher: ECS Journal of Solid State Science and Technology
   date: '2022-04-01'
   link: https://doi.org/grt3hc
-  _cache: fefc476c324c44eeba919ffa9b0d978ce52a024f83020241626a5b37e7e9fcbb
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/nano12121957
   title: Advances in Engineered Metal Oxide Thin Films by Low-Cost, Solution-Based
     Techniques for Green Hydrogen Production
@@ -66,7 +68,8 @@
   date: '2022-06-07'
   link: https://doi.org/grt3jx
   image: https://www.mdpi.com/nanomaterials/nanomaterials-12-01957/article_deploy/html/images/nanomaterials-12-01957-g001-550.jpg
-  _cache: 4bf333055b531fd89587ceca2a8d8d3aebd2c197ee4a5342a73a9bcbac8596d9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/D0RA10176A
   title: Challenges and prospects about the graphene role in the design of photoelectrodes
     for sunlight-driven water splitting
@@ -82,7 +85,8 @@
   date: '2021-01-01'
   link: https://doi.org/grt3jz
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0RA10176A&imageInfo.ImageIdentifier.Year=2021
-  _cache: 64c8ecb11c1a9b421250ed5fa1236e7c67c9047af5ee3063a5dbcc075c904008
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.jpcc.0c11397
   title: Insights on Thickness-Dependent Charge Transfer Efficiency Modulated by Ultrasonic
     Treatment in Hematite Photoanodes
@@ -95,7 +99,8 @@
   date: '2021-04-29'
   link: https://doi.org/gjv2fp
   image: https://pubs.acs.org/cms/10.1021/acs.jpcc.0c11397/asset/images/medium/jp0c11397_0009.gif
-  _cache: ab7e5d05cb398629ad92a662fb4f97887bd2813a02591cf04203a4669109f9b2
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/5.0049914
   title: Unveiling the dopant segregation effect at hematite interfaces
   authors:
@@ -111,7 +116,8 @@
   date: '2021-05-17'
   link: https://doi.org/gj3kw7
   image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0049914&id=images/medium/5.0049914.figures.online.highlight_f1.jpg
-  _cache: 7cb477827ca6997fd4174bc19d101a025015d373ddb5d41cae6441123295f7e5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.chemmater.0c04305
   title: Improving Thermodynamic Stability of nano-LiMn<sub>2</sub>O<sub>4</sub> for
     Li-Ion Battery Cathode
@@ -125,7 +131,8 @@
   date: '2021-05-24'
   link: https://doi.org/gj6nm3
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.0c04305/asset/images/medium/cm0c04305_0010.gif
-  _cache: 55dd91ddc6ecb24ebea0c41f95468b7b3a01a33852dd5416339e24568a1e7991
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/5.0060483
   title: An intensity modulated photocurrent spectroscopy study of the role of titanium
     in thick hematite photoanodes
@@ -139,7 +146,8 @@
   date: '2021-08-16'
   link: https://doi.org/gmjcrp
   image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0060483&id=images/medium/5.0060483.figures.online.highlight_f1.jpg
-  _cache: f7264abc297a928b3d6b49c350aec5726fbb8b864258074f4a40e41a2edbe9b1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/5.0066931
   title: On the relevance of understanding and controlling the locations of dopants
     in hematite photoanodes for low-cost water splitting
@@ -152,7 +160,8 @@
   date: '2021-11-15'
   link: https://doi.org/gnpbk4
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0fX-qkbFAOXj__P-P515lOhrLtBsh-B7wT4V2WyaQLGkP1hzHjk7k3W9EdyLnr5w5v0&usqp=CAU
-  _cache: 9a855368ed148c71817f0f09c73b5ea7a364ef59195dee329bf4ea5661517907
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.201901171
   title: "Tailoring a Zinc Oxide Nanorod Surface by Adding an Earth\u2010Abundant\
     \ Cocatalyst for Induced Sunlight Water Oxidation"
@@ -166,7 +175,8 @@
   date: '2020-02-03'
   link: https://doi.org/grt3kf
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d86a0600-e768-40b2-8ad7-6f18da4a2d0b/cphc201901171-toc-0001-m.png
-  _cache: 11d1d18e3bc5c2a45c6c28f9d90fc35e454b9961cab3f4629dbc2d6a8c986fcd
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2019.110378
   title: An intensity-modulated photocurrent spectroscopy study of the charge carrier
     dynamics of WO3/BiVO4 heterojunction systems
@@ -182,7 +192,8 @@
   date: '2020-05-01'
   link: https://doi.org/gqzj8k
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307044-sc1.jpg
-  _cache: 0674ae20cb4c3c777b5876cb86112d37abad139d009d42a462f356afa837b114
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2020.110428
   title: Enhancing the solar water splitting activity of TiO2 nanotube-array photoanode
     by surface coating with La-doped SrTiO3
@@ -196,7 +207,8 @@
   date: '2020-05-01'
   link: https://doi.org/gqzj8j
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024820300349-fx1.jpg
-  _cache: 451c176cbae2ac2f01bd02572f0741ddc50247fe190202d0180363140dcc3bcd
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2019.110377
   title: 'Engineering interfacial modification on nanocrystalline hematite photoanodes:
     A close look into the efficiency parameters'
@@ -209,7 +221,8 @@
   date: '2020-05-01'
   link: https://doi.org/grt3kg
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307032-gr1.jpg
-  _cache: fff9170f494f4fff69ee965187a80e3ced887510737d1530b4e3dcde972516b8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cctc.202000143
   title: 'Role of Cocatalysts on Hematite Photoanodes in Photoelectrocatalytic Water
     Splitting: Challenges and Future Perspectives'
@@ -224,7 +237,8 @@
   date: '2020-05-05'
   link: https://doi.org/grt3kh
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0272f24a-a327-4ceb-bb49-5b2ee0f2af3c/cctc202000143-toc-0001-m.png
-  _cache: 1a54d34987f221c62c157ef572adb1e9cdb7d96511cd7316c680d8a787aabe67
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/5.0003146
   title: Strategies to improve the photoelectrochemical performance of hematite nanorod-based
     photoanodes
@@ -237,7 +251,8 @@
   date: '2020-04-01'
   link: https://doi.org/grt3kj
   image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apm/2020/apm.2020.8.issue-4/5.0003146/20200407/images/medium/5.0003146.figures.online.f1.jpg
-  _cache: 9f29b530e3a9013d931587d114d33fc2bc8e8bc7cb931e46113721b940513073
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.jpcc.9b11966
   title: 'Hematite Surface Modification toward Efficient Sunlight-Driven Water Splitting
     Activity: The Role of Gold Nanoparticle Addition'
@@ -252,7 +267,8 @@
   date: '2020-02-28'
   link: https://doi.org/grt3nx
   image: https://pubs.acs.org/cms/10.1021/acs.jpcc.9b11966/asset/images/medium/jp9b11966_0007.gif
-  _cache: f31d7acece890b4097addc1d493c5f68838775c90460d514cfd6d1faaf2f68b8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.enconman.2020.112975
   title: Optimization of sulfonation process for the development of carbon-based catalyst
     from crambe meal via response surface methodology
@@ -268,7 +284,8 @@
   date: '2020-08-01'
   link: https://doi.org/grt3nz
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0196890420305197-ga1.jpg
-  _cache: 3a6d978a0158a6ff41c66946a35fc2b96b80c8ef805ab2973343a8742ad0c8e9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/ces2.10062
   title: "Revealing the synergy of Sn insertion in hematite for next\u2010generation\
     \ solar water splitting nanoceramics"
@@ -282,7 +299,8 @@
   date: '2020-07-21'
   link: https://doi.org/grt3n2
   image: https://ceramics.onlinelibrary.wiley.com/cms/asset/ab725179-3acd-4e0a-9a7f-d22f3b2e730f/ces210062-fig-0001-m.png
-  _cache: 4019f934e88251902d729182c2c7ef5bfa72112a6d60d92b3eb4b39d271f34a1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/5.0015519
   title: Engineering hematite/plasmonic nanoparticle interfaces for efficient photoelectrochemical
     water splitting
@@ -298,7 +316,8 @@
   date: '2020-08-14'
   link: https://doi.org/gqzgqx
   image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0015519&id=images/medium/5.0015519.figures.online.highlight_f1.jpg
-  _cache: 40eb48d5a3a6797268c51ef75dfd3d1dcc6bdba41a65b03a736f34a2ae8d0240
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jcat.2020.08.014
   title: All-electrochemically synthesized tin and nickel oxide-modified hematite
     as photo-electrocatalyst anodes for solar-driven water splitting
@@ -312,7 +331,8 @@
   date: '2020-11-01'
   link: https://doi.org/grt3n3
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951720303250-ga1.jpg
-  _cache: 6bf1292b18c78c8fdd354d892402607481560aa98a78f880c7fba67f346e858a
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acsanm.0c01957
   title: Pseudobrookite Fe<sub>2</sub>TiO<sub>5</sub> Nanoparticles Loaded with Earth-Abundant
     Nanosized NiO and Co<sub>3</sub>O<sub>4</sub> Cocatalysts for Photocatalytic O<sub>2</sub>
@@ -328,7 +348,8 @@
   date: '2020-08-26'
   link: https://doi.org/grt3n4
   image: https://pubs.acs.org/cms/10.1021/acsanm.0c01957/asset/images/medium/an0c01957_0010.gif
-  _cache: 2aa54fca63d61e73788059ede27eb77a84f25b642ab402f6318d3b95baa11b42
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/jace.17390
   title: Interface engineering of nanoceramic hematite photoelectrode for solar energy
     conversion
@@ -341,7 +362,8 @@
   date: '2020-08-17'
   link: https://doi.org/grt3n5
   image: https://ceramics.onlinelibrary.wiley.com/cms/asset/14c00c5b-e07e-43a1-88af-aa3556c3e411/jace17390-toc-0001-m.jpg?trick=1675687835311
-  _cache: 2c80c59d7a40a17b04f6ff75d3ffa86f715eecff0c4039af7dc1e585d861014d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jcat.2018.12.010
   title: Novel design of photocatalyst coaxial ferromagnetic core and semiconducting
     shell microwire architecture
@@ -356,7 +378,8 @@
   date: '2019-02-01'
   link: https://doi.org/grt3n6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951718304901-ga1.jpg
-  _cache: 60fdb30cbabb6ddc210dc0c4e7cbd020dbf521db83f1726540e10ede4cb1a045
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jcat.2019.02.030
   title: Unraveling the role of single layer graphene as overlayer on hematite photoanodes
   authors:
@@ -370,7 +393,8 @@
   date: '2019-04-01'
   link: https://doi.org/grt3n7
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951719300910-ga1.jpg
-  _cache: 22b2d1cc763b0b75cafc4d5551ca3088f861c55d5857164207b821e2546f89a6
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/aelm.201900065
   title: "Unraveling the Role of Sn Segregation in the Electronic Transport of Polycrystalline\
     \ Hematite: Raising the Electronic Conductivity by Lowering the Grain\u2010Boundary\
@@ -388,7 +412,8 @@
   date: '2019-04-08'
   link: https://doi.org/grt3n8
   image: https://onlinelibrary.wiley.com/cms/asset/33af4df6-3707-4c50-928e-e697a4e59786/aelm201900065-gra-0001-m.jpg?trick=1670785209110
-  _cache: 8214fd158d6f3a653b2f1c5c519bc8472c92b09ff1cbbbfcb5c566595ce50e32
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jallcom.2019.05.335
   title: 'Annealing control of hydrothermally grown hematite nanorods: Implication
     of structural changes and Cl concentration on weak ferromagnetism'
@@ -404,7 +429,8 @@
   publisher: Journal of Alloys and Compounds
   date: '2019-08-01'
   link: https://doi.org/grt3n9
-  _cache: 657a50193b7e5a9e9653c859900ea2c1daa507c21bd86aef9387e10cb69fea17
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C9TA05452A
   title: Discovering a selective semimetal element to increase hematite photoanode
     charge separation efficiency
@@ -419,7 +445,8 @@
   date: '2019-01-01'
   link: https://doi.org/grt3pr
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9TA05452A&imageInfo.ImageIdentifier.Year=2019
-  _cache: 7de29787b4c20e1c5562ee674cccd86cfca75fa8d0b36dbfd256a02a16057089
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.matlet.2019.07.068
   title: 'Tailoring hematite/FTO interfaces: New horizons for spin-coated hematite
     photoanodes targeting water splitting'
@@ -434,7 +461,8 @@
   date: '2019-11-01'
   link: https://doi.org/grt3ps
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0167577X19310547-ga1.jpg
-  _cache: 5702f8dc860f044f997d2a3d5aecf77b39ac0f06ba28f2fa28c24e0505551430
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.jpclett.9b02928
   title: Controlling the Activation Energy for Single-Ion Diffusion through a Hybrid
     Polyelectrolyte Matrix by Manipulating the Central Coordinate Semimetal Atom
@@ -448,7 +476,8 @@
   date: '2019-11-25'
   link: https://doi.org/grt3pt
   image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02928/asset/images/medium/jz9b02928_0005.gif
-  _cache: b66c96c2e46b2028090ff165508782f6da9653c404cff6dc118959be1ec6835b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1590/0001-3765201820170581
   title: Sunlight-driven water splitting using hematite nanorod photoelectrodes
   authors:
@@ -457,7 +486,8 @@
   date: '2018-01-01'
   link: https://doi.org/grt3pv
   image: https://minio.scielo.br/documentstore/1678-2690/tYKv5XjMsTfysjJhGVdxfKR/058fcf17e52f0d7897875ae7cc1e334070f91e41.jpg
-  _cache: 66a6eeb105e7b26a1720c3b126c881de9679bbb027bca62f73fa07b0b3bf75bb
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.matchemphys.2018.02.044
   title: Rapid microwave-assisted synthesis of zirconium aluminide
   authors:
@@ -469,7 +499,8 @@
   date: '2018-06-01'
   link: https://doi.org/gdhvsf
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058418301482-egi10SGKL50T8Q.jpg
-  _cache: 94fc0f2e609232a32695b42869fac9c09099a7e08983d18afa9b622dc249f093
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/slct.201800383
   title: Synthesis of SnS and ZnS Hollow Microarchitectures Decorated with Nanostructures
     and Their Photocatalytic Behavior for Dye Degradation
@@ -484,7 +515,8 @@
   date: '2018-04-06'
   link: https://doi.org/gdgdqz
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bc0f9f66-caac-4b7c-bf3a-23c70b0f6180/slct201800383-toc-0001-m.jpg
-  _cache: 791dd22c8c8212389353fe9b5d6fae25e14f0767231a48d3343aae6fa77eeaa9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ceramint.2018.09.097
   title: Photoactive multilayer WO3 electrode synthesized via dip-coating
   authors:
@@ -496,7 +528,8 @@
   date: '2018-12-01'
   link: https://doi.org/ggqwsr
   image: https://ars.els-cdn.com/content/image/1-s2.0-S027288421832563X-gr1.jpg
-  _cache: 27130599fe161fcd8b3bcfa69d5a03913bf7ad17ddbd14c97828b7ad2f757d2e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C7RE00183E
   title: New ultrasonic assisted co-precipitation for high surface area oxide based
     nanostructured materials
@@ -508,7 +541,8 @@
   date: '2018-01-01'
   link: https://doi.org/grt3pw
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RE00183E&imageInfo.ImageIdentifier.Year=2018
-  _cache: 82bf13e11d58b6a7eb3fd14bb34bb7d345350367cf65007bc612fef535eba107
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C7RA03277C
   title: Synthesis, growth mechanism, optical properties and catalytic activity of
     ZnO microcrystals obtained via hydrothermal processing
@@ -524,7 +558,8 @@
   date: '2017-01-01'
   link: https://doi.org/grt3px
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RA03277C&imageInfo.ImageIdentifier.Year=2017
-  _cache: c6183fedc18427af35b1a95d439754a7a0daceb60618953631e1e97afc5a2a5d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C7CP04827K
   title: High temperature activation of hematite nanorods for sunlight driven water
     oxidation reaction
@@ -539,7 +574,8 @@
   date: '2017-01-01'
   link: https://doi.org/grt3pz
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP04827K&imageInfo.ImageIdentifier.Year=2017
-  _cache: 05ddcafc3a47cf4f1903f082597b165ebe3605f0ea06c4c152d4a1ea75b5e689
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1088/1361-6528/aa8b5d
   title: Synergetic effect of Sn addition and oxygen-deficient atmosphere to fabricate
     active hematite photoelectrodes for light-induced water splitting
@@ -550,7 +586,8 @@
   date: '2017-10-17'
   link: https://doi.org/grt3p2
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyU7nO75Yq8hFbu-RkrJO__ep3S0JbPs48UrNNNc2p59lUfFGeLyyFVmWCIsngmeNCaQ&usqp=CAU
-  _cache: d9625a308987eeea39012db4b9fa4152b8f6af006421325e998f5927692183a3
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jeurceramsoc.2017.10.041
   title: Kinetic and thermodynamic effects of manganese as a densification aid in
     yttria-stabilized zirconia
@@ -562,7 +599,8 @@
   date: '2018-04-01'
   link: https://doi.org/gc33j6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0955221917307215-gr6.jpg
-  _cache: 92a64bdf7a77a049b69b15e739f585149eca28e06b3bc0c00cf8716a50082f9e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C7CP06558B
   title: Surface Fe vacancy defects on haematite and their role in light-induced water
     splitting in artificial photosynthesis
@@ -575,7 +613,8 @@
   date: '2017-01-01'
   link: https://doi.org/grt3qk
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP06558B&imageInfo.ImageIdentifier.Year=2017
-  _cache: 1e0c9542de88c80c07f50f15be22c9a7149d55cd3aadd645f1a5b47d7dbfe8c7
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2015.09.028
   title: Thermal enhancement of water affinity on the surface of undoped hematite
     photoelectrodes
@@ -586,7 +625,8 @@
   date: '2016-01-01'
   link: https://doi.org/f73z8x
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024815004614-fx1.jpg
-  _cache: 2511a76496d1b38a06bbe2b98b372569b1a86dc446b0fc143fed3035436fb1d3
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.201500659
   title: Enhancing Hematite Photoanode Activity for Water Oxidation by Incorporation
     of Reduced Graphene Oxide
@@ -598,7 +638,8 @@
   date: '2015-11-27'
   link: https://doi.org/f3j6jd
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ef184a42-1ad7-4587-a46b-2c3c6764ccd7/cphc201500659-toc-0001-m.png
-  _cache: 8cfc86107bb1df7493f9cbc27a75a8f04d3f25ddcce8be127d43529df0ab5980
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C5TA06646H
   title: Multihierarchical electrodes based on titanate nanotubes and zinc oxide nanorods
     for photoelectrochemical water splitting
@@ -613,7 +654,8 @@
   date: '2016-01-01'
   link: https://doi.org/grt3qm
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5TA06646H&imageInfo.ImageIdentifier.Year=2016
-  _cache: 60cca9e0e4898aa19ef7d525f20b0138f0398729b22dc853fb5975f0e330fbf1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jallcom.2016.03.008
   title: "Effect of microwave irradiation on hydrogen sorption properties of hand\
     \ mixed MgH2 \u2013 10\_wt.% carbon fibers"
@@ -627,7 +669,8 @@
   publisher: Journal of Alloys and Compounds
   date: '2016-08-01'
   link: https://doi.org/grt3qn
-  _cache: 4c1d0764a47e23551a13ee58c12a0ace1c1807cf4e695a367e4da45d9af70c4f
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tsf.2016.03.011
   title: "Effect of thermal treatment on solid\u2013solid interface of hematite thin\
     \ film synthesized by spin-coating deposition solution"
@@ -640,7 +683,8 @@
   publisher: Thin Solid Films
   date: '2016-04-01'
   link: https://doi.org/f8hcgs
-  _cache: c90b8e9ccc7ad8829ee664e31ac14db71f4cd5f023bd9915ab8b376d3727e378
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.201600316
   title: Hematite Surface Activation by Chemical Addition of Tin Oxide Layer
   authors:
@@ -650,7 +694,8 @@
   date: '2016-06-17'
   link: https://doi.org/f3qd2s
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/7863e603-af5d-44a3-87ac-b1144ff44af9/cphc201600316-toc-0001-m.png
-  _cache: 80bf3cfaf5c72ca309fcd405f3ccca1893c25196a6292813b41927f12320766e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ceramint.2016.06.035
   title: Dielectric characterization of microwave sintered lead zirconate titanate
     ceramics
@@ -664,7 +709,8 @@
   date: '2016-10-01'
   link: https://doi.org/f8zg8h
   image: http://cdmf.org.br/wp-content/uploads/2016/06/FEG-images-of-fractured-PZT-ceramic-bodies-sintered-in-conventional-and-microwave-ovens-1.jpg
-  _cache: d8de94460fefd6425f7ea1d4ae147cd00ac07b35b54fc189757c70e451e912e8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acsami.6b11950
   title: Zinc Oxide Flower-Like Nanostructures That Exhibit Enhanced Toxicology Effects
     in Cancer Cells
@@ -677,7 +723,8 @@
   date: '2016-11-23'
   link: https://doi.org/f9d7nn
   image: https://pubs.acs.org/cms/10.1021/acsami.6b11950/asset/images/medium/am-2016-11950h_0008.gif
-  _cache: 37ed7feed79bbb526296c0b48488070b9b07f3552cb747228c1d4a07b2908f22
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1557/jmr.2015.353
   title: Enhanced water oxidation efficiency of hematite thin films by oxygen-deficient
     atmosphere
@@ -689,7 +736,8 @@
   date: '2015-12-09'
   link: https://doi.org/grt3qp
   image: https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0884291415003532/resource/name/S0884291415003532_figAb.jpeg?pub-status=live
-  _cache: 2db2133c4f3a33f9bac8dcd7292e55ede7052f8096412ec693856b504f135fee
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1557/jmr.2013.302
   title: Recent advances on solar water splitting using hematite nanorod film produced
     by purpose-built material methods
@@ -700,7 +748,8 @@
   date: '2013-11-13'
   link: https://doi.org/grt3qr
   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20160922085019-92071-mediumThumb-S0884291413003026_fig1g.jpg?pub-status=live
-  _cache: 6de768f668d223609c197b0bde571bf73e88f9477ed7ea66bd5c5ccbf9802d18
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/C3RA42753F
   title: Morphological and structural evolution from akaganeite to hematite of nanorods
     monitored by ex situ synchrotron X-ray powder diffraction
@@ -712,7 +761,8 @@
   date: '2014-01-01'
   link: https://doi.org/grt3rb
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C3RA42753F&imageInfo.ImageIdentifier.Year=2014
-  _cache: 3f294788a2eed868976cb90a1929bf19c054271bf2360268c309efb8588959e1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.201300054
   title: Large-Area Plasmonic Substrate of Silver-Coated Iron Oxide Nanorod Arrays
     for Plasmon-Enhanced Spectroscopy
@@ -727,7 +777,8 @@
   date: '2013-05-06'
   link: https://doi.org/f2cw5v
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ec149d89-2a6c-489a-a876-3d6a586e87e5/mcontent.gif
-  _cache: c12fdbf3d47a2e40a486eaf24718f0f22a6d7fb710fdea4201090d0e0f724465
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jallcom.2013.04.126
   title: Facile synthetic route for producing one-dimensional zinc oxide nanoflowers
     and characterization of their optical properties
@@ -738,7 +789,8 @@
   date: '2013-11-01'
   link: https://doi.org/f49ddc
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0925838813010384-fx1.jpg
-  _cache: cc71c90fa7e3018c1e829a19a93a3d9d056030299f20bd194b5f5ec71873d22d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tsf.2013.04.034
   title: Zinc oxide flower-like synthesized under hydrothermal conditions
   authors:
@@ -751,7 +803,8 @@
   date: '2013-06-01'
   link: https://doi.org/f4zkw2
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0040609013006500-gr5.jpg
-  _cache: 82d685e08ba87809d078a4408b101847a4b6f48026f013046527892adb07f222
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0076857
   title: UV-Light Effects on Cytochrome C Modulated by the Aggregation State of Phenothiazines
   authors:
@@ -767,7 +820,8 @@
   date: '2013-10-09'
   link: https://doi.org/grt3rc
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3793907/bin/pone.0076857.g003.jpg
-  _cache: 78653183fb6e64b1b02c36eb2ec12d94db05dd8336ee6646b2ea9d4ddcf758a3
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2012.01.093
   title: Highly oriented hematite nanorods arrays for photoelectrochemical water splitting
   authors:
@@ -781,7 +835,8 @@
   date: '2012-05-01'
   link: https://doi.org/fz3c6s
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775312001929-gr1.jpg
-  _cache: 28a16f5f976ddfdd604bf2b146737a258287144671d6590bf3020e2dacab294e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/am301425e
   title: 'Vertically Oriented Iron Oxide Films Produced by Hydrothermal Process: Effect
     of Thermal Treatment on the Physical Chemical Properties'
@@ -794,7 +849,8 @@
   date: '2012-10-02'
   link: https://doi.org/f4bcgj
   image: https://pubs.acs.org/cms/10.1021/am301425e/asset/images/medium/am-2012-01425e_0007.gif
-  _cache: be116f76d73d534da23c98601a446e00ee5372dd1b2a8b2a5bf16b6094908570
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/jp202101r
   title: Quenching of Photoactivity in Phthalocyanine Copper(II) -Titanate Nanotube
     Hybrid Systems
@@ -813,7 +869,8 @@
   date: '2011-06-02'
   link: https://doi.org/fpbm7p
   image: https://pubs.acs.org/cms/10.1021/jp202101r/asset/images/medium/jp-2011-02101r_0001.gif
-  _cache: 878ad0f14b47a12fdf8dc02100aea6366c9c108913bab22fe2142124a18fe58b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.matchemphys.2011.06.040
   title: Structural and dielectric characterization of praseodymium-modified lead
     titanate ceramics synthesized by the OPM route
@@ -827,7 +884,8 @@
   date: '2011-10-01'
   link: https://doi.org/fkjj4d
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058411005578-gr2.jpg
-  _cache: 10b8a5f7554fd337ebe58ae247ff6660856e95509f90e509a3baf30624576c86
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.matchemphys.2010.08.030
   title: Characterization of dense lead lanthanum titanate ceramics prepared from
     powders synthesized by the oxidant peroxo method
@@ -842,7 +900,8 @@
   date: '2010-12-01'
   link: https://doi.org/cf3j63
   image: https://d3i71xaburhd42.cloudfront.net/acbc17cf3c9498a83a5baa2f9152deab6f26e038/2-Figure3-1.png
-  _cache: 7e26a10106e25ae3d0d15bc75a64e157268c46e8e453bd4f39ef71c8e473465f
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2008.11.049
   title: 'Nanostructured hematite thin films produced by spin-coating deposition solution:
     Application in water splitting'
@@ -855,7 +914,8 @@
   date: '2009-03-01'
   link: https://doi.org/dk538w
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024808004479-gr1.jpg
-  _cache: 5610f470a795f5bd4a02b16d2f60c36049f22bed2b32caa4ecd92df92ff6ee0d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/B811946E
   title: "The influence of the film thickness of nanostructured \u03B1-Fe2O3 on water\
     \ photooxidation"
@@ -868,7 +928,8 @@
   date: '2009-01-01'
   link: https://doi.org/dv29zs
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=B811946E&imageInfo.ImageIdentifier.Year=2009
-  _cache: c61045967d7e24a6a48b9eed60509e87397f5d675e7f96a883c7c8c17cd30413
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.200700629
   title: Ion Relaxation Dynamics in a Decoupled Hybrid Polyelectrolyte
   authors:
@@ -879,7 +940,8 @@
   date: '2008-02-01'
   link: https://doi.org/bp89f5
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/71d90234-af61-4970-913c-fd9270041713/mcontent.gif
-  _cache: a68c772fcd8d6ea7ed259ea8e9ec5821a55dc038d605bccc8fe9e12b882f724b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/1.3023061
   title: Anomalous current-voltage behavior of CaCu3Ti4O12 ceramics
   authors:
@@ -891,7 +953,8 @@
   date: '2008-11-03'
   link: https://doi.org/d2ngn5
   image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.3023061&id=images/medium/1.3023061.figures.f1.gif
-  _cache: 1c5b1864be42d1a1aba384878df8544b49f060e18d93d5de38777f0942faa6b3
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cphc.200700260
   title: 'Lithium Ion Motion in a Hybrid Polymer: Confirmation of a Decoupled Polyelectrolyte'
   authors:
@@ -902,7 +965,8 @@
   date: '2007-08-24'
   link: https://doi.org/c5smbm
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4dea3080-81a3-4313-8ead-0aa34cf1baea/mcontent.gif
-  _cache: 65a300aaf4902ab6e6b810dfc1c8be73cb743907b3ecb78e385a6a7968c759ee
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.solmat.2007.06.011
   title: 'Solid hybrid polyelectrolyte with high performance in electrochromic devices:
     Electrochemical stability and optical study'
@@ -914,7 +978,8 @@
   date: '2007-11-01'
   link: https://doi.org/fkpcq3
   image: https://www.researchgate.net/profile/Michel-Aegerter/publication/237277011/figure/fig2/AS:299454700769288@1448406972201/a-Z-0-versus-Z-00-impedance-complex-plane-plots-for-SPHP-with-1_Q320.jpg
-  _cache: a3f3597473d4b9df6edcab201a3a7baa0126fe62ae7f0fa3e681975768f8cbd9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.electacta.2007.04.063
   title: Performance of a single-phase hybrid and nanocomposite polyelectrolyte in
     classical electrochromic devices
@@ -926,7 +991,8 @@
   date: '2007-12-01'
   link: https://doi.org/fk6984
   image: https://www.researchgate.net/profile/Michel-Aegerter/publication/222817637/figure/fig5/AS:341647859699716@1458466605261/Transmittance-T-b-and-T-c-of-the-ECIII-device-at-l-550-nm-as-a-function-of-the-CA_Q320.jpg
-  _cache: 34c35423c02fd5a74decda93e536893261af06bfe2da9b4b81c10787b6fe851c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/cm051003j
   title: "Hybrid Organic\u2212Inorganic Polymer:\u2009 A New Approach for the Development\
     \ of Decoupled Polymer Electrolytes"
@@ -939,7 +1005,8 @@
   publisher: Chemistry of Materials
   date: '2005-08-12'
   link: https://doi.org/fdhsdv
-  _cache: 64252632a224832b1f28d7f185be1452be6127785f311eab9885ef09c04f5446
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ssi.2003.10.009
   title: "Sol\u2013gel nonhydrolytic synthesis of a hybrid organic\u2013inorganic\
     \ electrolyte for application in lithium-ion devices"
@@ -949,7 +1016,8 @@
   date: '2004-01-15'
   link: https://doi.org/fbhckf
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0167273803004764-gr3.sml
-  _cache: 650681ef344ca8eb7343623d3fb47711b0c5af28bb39499f16921d2967a6ed72
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1063/1.1765854
   title: Structural and electrical characterization of dense lead zirconate titanate
     ceramics synthesized by the oxidant-peroxo wet-chemical route
@@ -962,7 +1030,8 @@
   date: '2004-08-15'
   link: https://doi.org/fqnwrs
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh7wpgm2qytDLl0_BnpTSApbQUgJDUNFxElFx3IPiXHIqnEvGinukyaoR7B2K8BhaBiI&usqp=CAU
-  _cache: d14a3559a64d579811f098b0de0bbc4756f7496b65ed2583256d3062ae1a10dd
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0254-0584(03)00083-X
   title: Effect of the addition of ZnO seeds on the electrical proprieties of ZnO-based
     varistors
@@ -979,4 +1048,5 @@
   date: '2003-05-01'
   link: https://doi.org/fdq399
   image: https://ars.els-cdn.com/content/image/1-s2.0-S025405840300083X-gr1.sml
-  _cache: 9d353ede60480d36912b219158e9ff8184849bf839e351bae572d842b6e80b2d
+  plugin: sources.py
+  file: sources.yaml

@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-dark="false">
   {% include head.html %}
   <body>
-    <div style="overflow-x: clip;">
-      {% include header.html %}
-      <main>
-        {% include content.html content=content %}
-      </main>
-      {% include footer.html %}
-    </div>
+    {% include header.html %}
+    <main>
+      {% include content.html content=content %}
+    </main>
+    {% include footer.html %}
   </body>
 </html>
