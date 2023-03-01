@@ -1,4 +1,5 @@
 ---
+title: Home
 ---
 
 {% include section.html size="full" %}{% include bgvideo.html %}{% include section.html %}
