@@ -1,73 +1,1228 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/jace.18460
+  title: On electron loss lowering at hematite photoelectrode interfaces
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Karen C. Bedin
+  - "Ingrid Rodr\xEDguez\u2010Guti\xE9rrez"
+  - Lizandra R. P. Peregrino
+  - Lionel Vayssieres
+  - Flavio L. Souza
+  publisher: Journal of the American Ceramic Society
+  date: '2022-04-04'
+  link: https://doi.org/grvhq3
+  orcid: 0000-0003-2036-9123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1149/2162-8777/ac6114
+  title: On the Effect of Thermal Processing on Sn Diffusion and Efficiency Enhancement
+    in Hematite/FTO Photoanodes
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - "Beatriz Mouri\xF1o"
+  - "Andr\xE9 L. M. Freitas"
+  - Carlos A. R. Costa
+  - Elcio L Pires
+  - "Renato V. Gon\xE7alves"
+  - Lionel Vayssieres
+  - Flavio L. Souza
+  publisher: ECS Journal of Solid State Science and Technology
+  date: '2022-04-01'
+  link: https://doi.org/grt3hc
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/D2TA03932J
+  title: 'Ideal dopant to increase charge separation efficiency in hematite photoanodes:
+    germanium'
+  authors:
+  - Murillo Henrique de Matos Rodrigues
+  - "Ingrid Rodriguez-Gutierr\xE9z"
+  - Carlos Alberto Ospina Ramirez
+  - Carlos Alberto Rodrigo Costa
+  - Cleyton Alexandre Biffe
+  - "Jo\xE3o Batista de Souza Junior"
+  - Flavio Leandro Souza
+  - Edson Roberto Leite
+  publisher: Journal of Materials Chemistry A
+  date: '2022-01-01'
+  link: https://doi.org/grvhq5
+  orcid: 0000-0003-2036-9123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1063/5.0066931
+  title: On the relevance of understanding and controlling the locations of dopants
+    in hematite photoanodes for low-cost water splitting
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Joao B. Souza Junior
+  - Flavio L. Souza
+  - Lionel Vayssieres
+  - Oomman K. Varghese
+  publisher: Applied Physics Letters
+  date: '2021-11-15'
+  link: https://doi.org/gnpbk4
+  orcid: 0000-0003-2036-9123
+  tags:
+  - iron oxide
+  - solution chemistry
+  - photoanodes
+  - hydrothermal synthesis
+  - sol-gel method
+  plugin: sources.py
+  file: sources.yaml
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0fX-qkbFAOXj__P-P515lOhrLtBsh-B7wT4V2WyaQLGkP1hzHjk7k3W9EdyLnr5w5v0&usqp=CAU
+- id: doi:10.1063/5.0060483
+  title: An intensity modulated photocurrent spectroscopy study of the role of titanium
+    in thick hematite photoanodes
+  authors:
+  - Ingrid Rodriguez-Gutierrez
+  - Joao B. Souza Junior
+  - Edson R. Leite
+  - Lionel Vayssieres
+  - Flavio L. Souza
+  publisher: Applied Physics Letters
+  date: '2021-08-16'
+  link: https://doi.org/gmjcrp
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0060483&id=images/medium/5.0060483.figures.online.highlight_f1.jpg
+- id: doi:10.1021/acs.chemmater.0c04305
+  title: Improving Thermodynamic Stability of nano-LiMn<sub>2</sub>O<sub>4</sub> for
+    Li-Ion Battery Cathode
+  authors:
+  - Kimiko Nakajima
+  - Flavio L. Souza
+  - Andre L. M. Freitas
+  - Andrew Thron
+  - Ricardo H. R. Castro
+  publisher: Chemistry of Materials
+  date: '2021-05-24'
+  link: https://doi.org/gj6nm3
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.0c04305/asset/images/medium/cm0c04305_0010.gif
+- id: doi:10.1063/5.0049914
+  title: Unveiling the dopant segregation effect at hematite interfaces
+  authors:
+  - Felipe C. de Lima
+  - Gabriel R. Schleder
+  - "Jo\xE3o B. Souza Junior"
+  - Flavio L. Souza
+  - "Fabr\xEDcio B. Destro"
+  - Roberto H. Miwa
+  - Edson R. Leite
+  - Adalberto Fazzio
+  publisher: Applied Physics Letters
+  date: '2021-05-17'
+  link: https://doi.org/gj3kw7
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0049914&id=images/medium/5.0049914.figures.online.highlight_f1.jpg
+- id: doi:10.1021/acs.jpcc.0c11397
+  title: Insights on Thickness-Dependent Charge Transfer Efficiency Modulated by Ultrasonic
+    Treatment in Hematite Photoanodes
+  authors:
+  - Andre L. M. Freitas
+  - Aryane Tofanello
+  - Flavio L. Souza
+  - Yat Li
+  publisher: The Journal of Physical Chemistry C
+  date: '2021-04-29'
+  link: https://doi.org/gjv2fp
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.0c11397/asset/images/medium/jp0c11397_0009.gif
+- id: doi:10.1039/D0RA10176A
+  title: Challenges and prospects about the graphene role in the design of photoelectrodes
+    for sunlight-driven water splitting
+  authors:
+  - Saulo A. Carminati
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - Andreia de Morais
+  - Bruno L. da Silva
+  - Mauricio A. Melo
+  - Flavio L. Souza
+  - Ana F. Nogueira
+  publisher: RSC Advances
+  date: '2021-01-01'
+  link: https://doi.org/grt3jz
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0RA10176A&imageInfo.ImageIdentifier.Year=2021
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/D0RA10176A
+  title: Challenges and prospects about the graphene role in the design of photoelectrodes
+    for sunlight-driven water splitting
+  authors:
+  - Saulo A. Carminati
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - Andreia de Morais
+  - Bruno L. da Silva
+  - Mauricio A. Melo
+  - Flavio L. Souza
+  - Ana F. Nogueira
+  publisher: RSC Advances
+  date: '2021-01-01'
+  link: https://doi.org/grt3jz
+  orcid: 0000-0003-2036-9123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1111/jace.17390
+  title: Interface engineering of nanoceramic hematite photoelectrode for solar energy
+    conversion
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Andre L. M. Freitas
+  - Dereck N. F. Muche
+  - Edson R. Leite
+  - Flavio L. Souza
+  publisher: Journal of the American Ceramic Society
+  date: '2020-08-17'
+  link: https://doi.org/grt3n5
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ceramics.onlinelibrary.wiley.com/cms/asset/14c00c5b-e07e-43a1-88af-aa3556c3e411/jace17390-toc-0001-m.jpg?trick=1675687835311
+- id: doi:10.1021/acsanm.0c01957
+  title: Pseudobrookite Fe<sub>2</sub>TiO<sub>5</sub> Nanoparticles Loaded with Earth-Abundant
+    Nanosized NiO and Co<sub>3</sub>O<sub>4</sub> Cocatalysts for Photocatalytic O<sub>2</sub>
+    Evolution via Solar Water Splitting
+  authors:
+  - Mauricio A. Melo
+  - Higor A. Centurion
+  - Thalles T. A. Lucas
+  - Dereck N. F. Muche
+  - Flavio L. Souza
+  - "Renato V. Gon\xE7alves"
+  publisher: ACS Applied Nano Materials
+  date: '2020-08-26'
+  link: https://doi.org/grt3n4
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsanm.0c01957/asset/images/medium/an0c01957_0010.gif
+- id: doi:10.1002/ces2.10062
+  title: "Revealing the synergy of Sn insertion in hematite for next\u2010generation\
+    \ solar water splitting nanoceramics"
+  authors:
+  - Karen C. Bedin
+  - Andre L. M. Freitas
+  - Aryane Tofanello
+  - "Ingrid Rodr\xEDguez\u2010Guti\xE9rrez"
+  - Flavio L. Souza
+  publisher: International Journal of Ceramic Engineering &amp; Science
+  date: '2020-07-21'
+  link: https://doi.org/grt3n2
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ceramics.onlinelibrary.wiley.com/cms/asset/ab725179-3acd-4e0a-9a7f-d22f3b2e730f/ces210062-fig-0001-m.png
+- id: doi:10.1063/5.0015519
+  title: Engineering hematite/plasmonic nanoparticle interfaces for efficient photoelectrochemical
+    water splitting
+  authors:
+  - A. Tofanello
+  - Z. Diao
+  - E. Djatoubai
+  - J. Z. Su
+  - S. H. Shen
+  - F. L. Souza
+  - L. Vayssieres
+  publisher: Journal of Applied Physics
+  date: '2020-08-14'
+  link: https://doi.org/gqzgqx
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0015519&id=images/medium/5.0015519.figures.online.highlight_f1.jpg
+- id: doi:10.1149/MA2020-01391708mtgabs
+  title: (Invited) Engineering Hematite Interfaces By Dual Modification for Sunlight
+    Driven Water Oxidation Reaction
+  authors:
+  - Andre L. M Freitas
+  - Flavio L Souza
+  publisher: ECS Meeting Abstracts
+  date: '2020-05-01'
+  link: https://doi.org/grvhq8
+  orcid: 0000-0003-2036-9123
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.solmat.2019.110377
+  title: 'Engineering interfacial modification on nanocrystalline hematite photoanodes:
+    A close look into the efficiency parameters'
+  authors:
+  - Dereck N.F. Muche
+  - Saulo A. Carminati
+  - Ana F. Nogueira
+  - Flavio L. Souza
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2020-05-01'
+  link: https://doi.org/grt3kg
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307032-gr1.jpg
+- id: doi:10.1063/5.0003146
+  title: Strategies to improve the photoelectrochemical performance of hematite nanorod-based
+    photoanodes
+  authors:
+  - Aryane Tofanello
+  - Shaohua Shen
+  - Flavio Leandro de Souza
+  - Lionel Vayssieres
+  publisher: APL Materials
+  date: '2020-04-01'
+  link: https://doi.org/grt3kj
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apm/2020/apm.2020.8.issue-4/5.0003146/20200407/images/medium/5.0003146.figures.online.f1.jpg
+- id: doi:10.1021/acs.jpcc.9b11966
+  title: 'Hematite Surface Modification toward Efficient Sunlight-Driven Water Splitting
+    Activity: The Role of Gold Nanoparticle Addition'
+  authors:
+  - Aryane Tofanello
+  - Andre L. M. Freitas
+  - Waldemir M. Carvalho
+  - Turkka Salminen
+  - Tapio Niemi
+  - Flavio L. Souza
+  publisher: The Journal of Physical Chemistry C
+  date: '2020-02-28'
+  link: https://doi.org/grt3nx
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.9b11966/asset/images/medium/jp9b11966_0007.gif
+- id: doi:10.1016/j.jcat.2020.08.014
+  title: All-electrochemically synthesized tin and nickel oxide-modified hematite
+    as photo-electrocatalyst anodes for solar-driven water splitting
+  authors:
+  - Anelisse B. Silva
+  - Camila D.F. da Silva
+  - Flavio L. Souza
+  - Francisco W.S. Lucas
+  - Fabio H.B. Lima
+  publisher: Journal of Catalysis
+  date: '2020-11-01'
+  link: https://doi.org/grt3n3
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951720303250-ga1.jpg
+- id: doi:10.1016/j.solmat.2019.110378
+  title: An intensity-modulated photocurrent spectroscopy study of the charge carrier
+    dynamics of WO3/BiVO4 heterojunction systems
+  authors:
+  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
+  - Essossimna Djatoubai
+  - Jinzhan Su
+  - Alberto Vega-Poot
+  - "Geonel Rodr\xEDguez-Gattorno"
+  - Flavio L. Souza
+  - Gerko Oskam
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2020-05-01'
+  link: https://doi.org/gqzj8k
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307044-sc1.jpg
+- id: doi:10.1016/j.solmat.2020.110428
+  title: Enhancing the solar water splitting activity of TiO2 nanotube-array photoanode
+    by surface coating with La-doped SrTiO3
+  authors:
+  - Thalles T.A. Lucas
+  - Mauricio A. Melo
+  - "Andr\xE9 L.M. Freitas"
+  - Flavio L. Souza
+  - "Renato V. Gon\xE7alves"
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2020-05-01'
+  link: https://doi.org/gqzj8j
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024820300349-fx1.jpg
+- id: doi:10.1016/j.enconman.2020.112975
+  title: Optimization of sulfonation process for the development of carbon-based catalyst
+    from crambe meal via response surface methodology
+  authors:
+  - Jhessica M. Fonseca
+  - Lucas Spessato
+  - "Andr\xE9 L. Cazetta"
+  - Karen C. Bedin
+  - Sandra A.R. Melo
+  - Flavio L. Souza
+  - Vitor C. Almeida
+  publisher: Energy Conversion and Management
+  date: '2020-08-01'
+  link: https://doi.org/grt3nz
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0196890420305197-ga1.jpg
+- id: doi:10.1002/cctc.202000143
+  title: 'Role of Cocatalysts on Hematite Photoanodes in Photoelectrocatalytic Water
+    Splitting: Challenges and Future Perspectives'
+  authors:
+  - Karen C. Bedin
+  - Dereck N. F. Muche
+  - Mauricio A. Melo
+  - Andre L. M. Freitas
+  - "Renato V. Gon\xE7alves"
+  - Flavio L. Souza
+  publisher: ChemCatChem
+  date: '2020-05-05'
+  link: https://doi.org/grt3kh
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0272f24a-a327-4ceb-bb49-5b2ee0f2af3c/cctc202000143-toc-0001-m.png
+- id: doi:10.1002/cphc.201901171
+  title: "Tailoring a Zinc Oxide Nanorod Surface by Adding an Earth\u2010Abundant\
+    \ Cocatalyst for Induced Sunlight Water Oxidation"
+  authors:
+  - Rafael M. Almeida
+  - Victoria C. Ferrari
+  - Juliana S. Souza
+  - Flavio L. Souza
+  - Wendel A. Alves
+  publisher: ChemPhysChem
+  date: '2020-02-03'
+  link: https://doi.org/grt3kf
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d86a0600-e768-40b2-8ad7-6f18da4a2d0b/cphc201901171-toc-0001-m.png
+- id: doi:10.1021/acs.jpclett.9b02928
+  title: Controlling the Activation Energy for Single-Ion Diffusion through a Hybrid
+    Polyelectrolyte Matrix by Manipulating the Central Coordinate Semimetal Atom
+  authors:
+  - Victoria C. Ferrari
+  - Raphael S. Alvim
+  - Thiago B. de Queiroz
+  - Gustavo M. Dalpian
+  - Flavio L. Souza
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2019-11-25'
+  link: https://doi.org/grt3pt
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02928/asset/images/medium/jz9b02928_0005.gif
+- id: doi:10.1149/MA2019-02/41/1913
+  title: "(Invited)\_Engineering Hematite Photoelectrodes Interfaces for Sunlight\
+    \ Water Oxidation Reaction"
+  authors:
+  - Dereck N. F. Muche
+  - Andre L. M Freitas
+  - Flavio L Souza
+  publisher: ECS Meeting Abstracts
+  date: '2019-09-01'
+  link: https://doi.org/grvhrf
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jallcom.2019.05.335
+  title: 'Annealing control of hydrothermally grown hematite nanorods: Implication
+    of structural changes and Cl concentration on weak ferromagnetism'
+  authors:
+  - W.M. Carvalho-Jr
+  - "L. Mendon\xE7a-Ferreira"
+  - F.N. Costa
+  - F.F. Ferreira
+  - D.N.F. Muche
+  - R.A. Tofanello
+  - R.H.R. Castro
+  - F.L. Souza
+  publisher: Journal of Alloys and Compounds
+  date: '2019-08-01'
+  link: https://doi.org/grt3n9
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.matlet.2019.07.068
+  title: 'Tailoring hematite/FTO interfaces: New horizons for spin-coated hematite
+    photoanodes targeting water splitting'
+  authors:
+  - Dereck N.F. Muche
+  - Thayna M.G. dos Santos
+  - Gabriela P. Leite
+  - Mauricio A. Melo
+  - "Renato V. Gon\xE7alves"
+  - Flavio L. Souza
+  publisher: Materials Letters
+  date: '2019-11-01'
+  link: https://doi.org/grt3ps
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167577X19310547-ga1.jpg
+- id: doi:10.1002/aelm.201900065
+  title: "Unraveling the Role of Sn Segregation in the Electronic Transport of Polycrystalline\
+    \ Hematite: Raising the Electronic Conductivity by Lowering the Grain\u2010Boundary\
+    \ Blocking Effect"
+  authors:
+  - Mario R. S. Soares
+  - Carlos A. R. Costa
+  - Evandro M. Lanzoni
+  - Jefferson Bettini
+  - Carlos A. O. Ramirez
+  - Flavio L. Souza
+  - Elson Longo
+  - Edson R. Leite
+  publisher: Advanced Electronic Materials
+  date: '2019-04-08'
+  link: https://doi.org/grt3n8
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/33af4df6-3707-4c50-928e-e697a4e59786/aelm201900065-gra-0001-m.jpg?trick=1670785209110
+- id: doi:10.1039/C9TA05452A
+  title: Discovering a selective semimetal element to increase hematite photoanode
+    charge separation efficiency
+  authors:
+  - "Andr\xE9 Esteves Nogueira"
+  - Mario Rodrigo Santos Soares
+  - "Jo\xE3o Batista Souza Junior"
+  - Carlos Alberto Ospina Ramirez
+  - Flavio Leandro Souza
+  - Edson Roberto Leite
+  publisher: Journal of Materials Chemistry A
+  date: '2019-01-01'
+  link: https://doi.org/grt3pr
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9TA05452A&imageInfo.ImageIdentifier.Year=2019
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C9TA05452A
+  title: Discovering a selective semimetal element to increase hematite photoanode
+    charge separation efficiency
+  authors:
+  - "Andr\xE9 Esteves Nogueira"
+  - Mario Rodrigo Santos Soares
+  - "Jo\xE3o Batista Souza Junior"
+  - Carlos Alberto Ospina Ramirez
+  - Flavio Leandro Souza
+  - Edson Roberto Leite
+  publisher: Journal of Materials Chemistry A
+  date: '2019-01-01'
+  link: https://doi.org/grt3pr
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcat.2018.12.010
+  title: Novel design of photocatalyst coaxial ferromagnetic core and semiconducting
+    shell microwire architecture
+  authors:
+  - G. Sombrio
+  - C.A.D. Pomar
+  - L.S. de Oliveira
+  - A.L.M. Freitas
+  - F.L. Souza
+  - J.A. Souza
+  publisher: Journal of Catalysis
+  date: '2019-02-01'
+  link: https://doi.org/grt3n6
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951718304901-ga1.jpg
+- id: doi:10.1016/j.jcat.2019.02.030
+  title: Unraveling the role of single layer graphene as overlayer on hematite photoanodes
+  authors:
+  - Saulo Amaral Carminati
+  - "Andr\xE9 do Nascimento Barbosa"
+  - Andre Luiz Martins de Freitas
+  - "Fernando L\xE1zaro Freire"
+  - "Fl\xE1vio Leandro Souza"
+  - "Ana Fl\xE1via Nogueira"
+  publisher: Journal of Catalysis
+  date: '2019-04-01'
+  link: https://doi.org/grt3n7
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951719300910-ga1.jpg
+- id: doi:10.1016/j.ceramint.2018.09.097
+  title: Photoactive multilayer WO3 electrode synthesized via dip-coating
+  authors:
+  - Victoria C. Ferrari
+  - Ivaldete S. Dupim
+  - Vinicius Sousa
+  - Flavio L. Souza
+  publisher: Ceramics International
+  date: '2018-12-01'
+  link: https://doi.org/ggqwsr
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S027288421832563X-gr1.jpg
+- id: doi:10.1016/j.jeurceramsoc.2017.10.041
+  title: Kinetic and thermodynamic effects of manganese as a densification aid in
+    yttria-stabilized zirconia
+  authors:
+  - Hui Li
+  - Flavio L. Souza
+  - Ricardo H.R. Castro
+  publisher: Journal of the European Ceramic Society
+  date: '2018-04-01'
+  link: https://doi.org/gc33j6
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0955221917307215-gr6.jpg
+- id: doi:10.1039/C7RE00183E
+  title: New ultrasonic assisted co-precipitation for high surface area oxide based
+    nanostructured materials
+  authors:
+  - Dereck N. F. Muche
+  - Flavio L. Souza
+  - Ricardo H. R. Castro
+  publisher: Reaction Chemistry &amp; Engineering
+  date: '2018-01-01'
+  link: https://doi.org/grt3pw
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RE00183E&imageInfo.ImageIdentifier.Year=2018
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C7RE00183E
+  title: New ultrasonic assisted co-precipitation for high surface area oxide based
+    nanostructured materials
+  authors:
+  - Dereck N. F. Muche
+  - Flavio L. Souza
+  - Ricardo H. R. Castro
+  publisher: Reaction Chemistry &amp; Engineering
+  date: '2018-01-01'
+  link: https://doi.org/grt3pw
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.matchemphys.2018.02.044
+  title: Rapid microwave-assisted synthesis of zirconium aluminide
+  authors:
+  - Waldemir. M. Carvalho-Jr
+  - Flavio L. Souza
+  - Sydney Ferreira Santos
+  - Jean-Louis Bobet
+  publisher: Materials Chemistry and Physics
+  date: '2018-06-01'
+  link: https://doi.org/gdhvsf
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058418301482-egi10SGKL50T8Q.jpg
+- id: doi:10.1590/0001-3765201820170581
+  title: Sunlight-driven water splitting using hematite nanorod photoelectrodes
+  authors:
+  - FLAVIO L. SOUZA
+  publisher: "Anais da Academia Brasileira de Ci\xEAncias"
+  date: '2018-01-01'
+  link: https://doi.org/grt3pv
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://minio.scielo.br/documentstore/1678-2690/tYKv5XjMsTfysjJhGVdxfKR/058fcf17e52f0d7897875ae7cc1e334070f91e41.jpg
+- id: doi:10.1002/slct.201800383
+  title: Synthesis of SnS and ZnS Hollow Microarchitectures Decorated with Nanostructures
+    and Their Photocatalytic Behavior for Dye Degradation
+  authors:
+  - Cesar D. Pomar
+  - Aryane T. Souza
+  - Guilherme Sombrio
+  - Flavio L. Souza
+  - Jean J. Bonvent
+  - Jose A. Souza
+  publisher: ChemistrySelect
+  date: '2018-04-06'
+  link: https://doi.org/gdgdqz
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bc0f9f66-caac-4b7c-bf3a-23c70b0f6180/slct201800383-toc-0001-m.jpg
+- id: doi:10.1088/1361-6528/aa8b5d
+  title: Synergetic effect of Sn addition and oxygen-deficient atmosphere to fabricate
+    active hematite photoelectrodes for light-induced water splitting
+  authors:
+  - Andre L M Freitas
+  - Flavio L Souza
+  publisher: Nanotechnology
+  date: '2017-10-17'
+  link: https://doi.org/grt3p2
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyU7nO75Yq8hFbu-RkrJO__ep3S0JbPs48UrNNNc2p59lUfFGeLyyFVmWCIsngmeNCaQ&usqp=CAU
+- id: doi:10.1039/C7CP04827K
+  title: High temperature activation of hematite nanorods for sunlight driven water
+    oxidation reaction
+  authors:
+  - Nathalie Minko Ito
+  - Waldemir Moura Carvalho
+  - Dereck Nills Ferreira Muche
+  - Ricardo Hauch Ribeiro Castro
+  - Gustavo Martini Dalpian
+  - Flavio Leandro Souza
+  publisher: Physical Chemistry Chemical Physics
+  date: '2017-01-01'
+  link: https://doi.org/grt3pz
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP04827K&imageInfo.ImageIdentifier.Year=2017
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C7CP04827K
+  title: High temperature activation of hematite nanorods for sunlight driven water
+    oxidation reaction
+  authors:
+  - Nathalie Minko Ito
+  - Waldemir Moura Carvalho
+  - Dereck Nills Ferreira Muche
+  - Ricardo Hauch Ribeiro Castro
+  - Gustavo Martini Dalpian
+  - Flavio Leandro Souza
+  publisher: Physical Chemistry Chemical Physics
+  date: '2017-01-01'
+  link: https://doi.org/grt3pz
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7CP06558B
+  title: Surface Fe vacancy defects on haematite and their role in light-induced water
+    splitting in artificial photosynthesis
+  authors:
+  - Fabio Ribeiro Negreiros
+  - Luana Sucupira Pedroza
+  - Flavio Leandro Souza
+  - Gustavo Martini Dalpian
+  publisher: Physical Chemistry Chemical Physics
+  date: '2017-01-01'
+  link: https://doi.org/grt3qk
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP06558B&imageInfo.ImageIdentifier.Year=2017
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C7CP06558B
+  title: Surface Fe vacancy defects on haematite and their role in light-induced water
+    splitting in artificial photosynthesis
+  authors:
+  - Fabio Ribeiro Negreiros
+  - Luana Sucupira Pedroza
+  - Flavio Leandro Souza
+  - Gustavo Martini Dalpian
+  publisher: Physical Chemistry Chemical Physics
+  date: '2017-01-01'
+  link: https://doi.org/grt3qk
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7RA03277C
+  title: Synthesis, growth mechanism, optical properties and catalytic activity of
+    ZnO microcrystals obtained via hydrothermal processing
+  authors:
+  - "Edgar Alves Ara\xFAjo J\xFAnior"
+  - Francisco Xavier Nobre
+  - Giancarlo da Silva Sousa
+  - "La\xE9cio Santos Cavalcante"
+  - Maria Rita de Morais Chaves Santos
+  - Flavio Leandro Souza
+  - "Jos\xE9 Milton Elias de Matos"
+  publisher: RSC Advances
+  date: '2017-01-01'
+  link: https://doi.org/grt3px
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RA03277C&imageInfo.ImageIdentifier.Year=2017
+- id: doi:10.1016/j.ceramint.2016.06.035
+  title: Dielectric characterization of microwave sintered lead zirconate titanate
+    ceramics
+  authors:
+  - "Mayra D. Gon\xE7alves"
+  - Flavio L. Souza
+  - Elson Longo
+  - Edson R. Leite
+  - Emerson R. Camargo
+  publisher: Ceramics International
+  date: '2016-10-01'
+  link: https://doi.org/f8zg8h
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: http://cdmf.org.br/wp-content/uploads/2016/06/FEG-images-of-fractured-PZT-ceramic-bodies-sintered-in-conventional-and-microwave-ovens-1.jpg
+- id: doi:10.1016/j.jallcom.2016.03.008
+  title: "Effect of microwave irradiation on hydrogen sorption properties of hand\
+    \ mixed MgH2 \u2013 10\_wt.% carbon fibers"
+  authors:
+  - A.S. Awad
+  - M. Nakhl
+  - M. Zakhour
+  - S.F. Santos
+  - F.L. Souza
+  - J.-L. Bobet
+  publisher: Journal of Alloys and Compounds
+  date: '2016-08-01'
+  link: https://doi.org/grt3qn
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tsf.2016.03.011
+  title: "Effect of thermal treatment on solid\u2013solid interface of hematite thin\
+    \ film synthesized by spin-coating deposition solution"
+  authors:
+  - Daniel Angel Bellido-Aguilar
+  - Aryane Tofanello
+  - Flavio L. Souza
+  - Leonardo Negri Furini
+  - "Carlos Jos\xE9 Leopoldo Constantino"
+  publisher: Thin Solid Films
+  date: '2016-04-01'
+  link: https://doi.org/f8hcgs
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cphc.201500659
+  title: Enhancing Hematite Photoanode Activity for Water Oxidation by Incorporation
+    of Reduced Graphene Oxide
+  authors:
+  - "Saulo do\u2005Amaral\u2005Carminati"
+  - Flavio L. Souza
+  - Ana F. Nogueira
+  publisher: ChemPhysChem
+  date: '2015-11-27'
+  link: https://doi.org/f3j6jd
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ef184a42-1ad7-4587-a46b-2c3c6764ccd7/cphc201500659-toc-0001-m.png
+- id: doi:10.1002/cphc.201600316
+  title: Hematite Surface Activation by Chemical Addition of Tin Oxide Layer
+  authors:
+  - Waldemir M. Carvalho
+  - Flavio L. Souza
+  publisher: ChemPhysChem
+  date: '2016-06-17'
+  link: https://doi.org/f3qd2s
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/7863e603-af5d-44a3-87ac-b1144ff44af9/cphc201600316-toc-0001-m.png
+- id: doi:10.1039/C5TA06646H
+  title: Multihierarchical electrodes based on titanate nanotubes and zinc oxide nanorods
+    for photoelectrochemical water splitting
+  authors:
+  - J. S. Souza
+  - W. M. Carvalho
+  - F. L. Souza
+  - C. Ponce-de-Leon
+  - D. V. Bavykin
+  - W. A. Alves
+  publisher: Journal of Materials Chemistry A
+  date: '2016-01-01'
+  link: https://doi.org/grt3qm
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5TA06646H&imageInfo.ImageIdentifier.Year=2016
+- id: doi:10.1016/j.solmat.2015.09.028
+  title: Thermal enhancement of water affinity on the surface of undoped hematite
+    photoelectrodes
+  authors:
+  - Waldemir M. Carvalho-Jr
+  - Flavio L. Souza
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2016-01-01'
+  link: https://doi.org/f73z8x
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024815004614-fx1.jpg
+- id: doi:10.1021/acsami.6b11950
+  title: Zinc Oxide Flower-Like Nanostructures That Exhibit Enhanced Toxicology Effects
+    in Cancer Cells
+  authors:
+  - "I\xEAda M. M. Paino"
+  - "Fernanda J. Gon\xE7alves"
+  - Flavio L. Souza
+  - Valtencir Zucolotto
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2016-11-23'
+  link: https://doi.org/f9d7nn
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsami.6b11950/asset/images/medium/am-2016-11950h_0008.gif
+- id: doi:10.1557/jmr.2015.353
+  title: Enhanced water oxidation efficiency of hematite thin films by oxygen-deficient
+    atmosphere
+  authors:
+  - "Andr\xE9 L.M. Freitas"
+  - Waldemir M. Carvalho
+  - Flavio L. Souza
+  publisher: Journal of Materials Research
+  date: '2015-12-09'
+  link: https://doi.org/grt3qp
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0884291415003532/resource/name/S0884291415003532_figAb.jpeg?pub-status=live
+- id: doi:10.1039/C3RA42753F
+  title: Morphological and structural evolution from akaganeite to hematite of nanorods
+    monitored by ex situ synchrotron X-ray powder diffraction
+  authors:
+  - Allan Moreira Xavier
+  - Fabio Furlan Ferreira
+  - Flavio Leandro Souza
+  publisher: RSC Adv.
+  date: '2014-01-01'
+  link: https://doi.org/grt3rb
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C3RA42753F&imageInfo.ImageIdentifier.Year=2014
+- id: doi:10.1557/jmr.2013.302
+  title: Recent advances on solar water splitting using hematite nanorod film produced
+    by purpose-built material methods
+  authors:
+  - Waldemir Moura de Carvalho
+  - Flavio Leandro Souza
+  publisher: Journal of Materials Research
+  date: '2013-11-13'
+  link: https://doi.org/grt3qr
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20160922085019-92071-mediumThumb-S0884291413003026_fig1g.jpg?pub-status=live
+- id: doi:10.1016/j.jallcom.2013.04.126
+  title: Facile synthetic route for producing one-dimensional zinc oxide nanoflowers
+    and characterization of their optical properties
+  authors:
+  - Daniel M. Cunha
+  - Flavio L. Souza
+  publisher: Journal of Alloys and Compounds
+  date: '2013-11-01'
+  link: https://doi.org/f49ddc
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0925838813010384-fx1.jpg
+- id: doi:10.1002/cphc.201300054
+  title: Large-Area Plasmonic Substrate of Silver-Coated Iron Oxide Nanorod Arrays
+    for Plasmon-Enhanced Spectroscopy
+  authors:
+  - Waldemir Moura Carvalho
+  - Diogo Volpati
+  - Vitor A. Nunes Carvalho
+  - Ricardo F. Aroca
+  - Carlos J. L. Constantino
+  - Flavio L. Souza
+  publisher: ChemPhysChem
+  date: '2013-05-06'
+  link: https://doi.org/f2cw5v
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ec149d89-2a6c-489a-a876-3d6a586e87e5/mcontent.gif
+- id: doi:10.1007/978-3-642-31736-1
+  title: Nanoenergy
+  authors: []
+  publisher: Springer Berlin Heidelberg
+  date: '2013-01-01'
+  link: https://doi.org/grvhrh
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0076857
+  title: UV-Light Effects on Cytochrome C Modulated by the Aggregation State of Phenothiazines
+  authors:
+  - Carolina G. dos Santos
+  - "Andr\xE9 L. Silva"
+  - Flavio L. Souza
+  - Alexandre J. C. Lanfredi
+  - Paolo Di Mascio
+  - Otaciro R. Nascimento
+  - Tiago Rodrigues
+  - Iseli L. Nantes
+  publisher: PLoS ONE
+  date: '2013-10-09'
+  link: https://doi.org/grt3rc
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3793907/bin/pone.0076857.g003.jpg
+- id: doi:10.1016/j.tsf.2013.04.034
+  title: Zinc oxide flower-like synthesized under hydrothermal conditions
+  authors:
+  - Daniel M. Cunha
+  - Nathalie M. Ito
+  - Allan M. Xavier
+  - Jeverson T. Arantes
+  - Flavio L. Souza
+  publisher: Thin Solid Films
+  date: '2013-06-01'
+  link: https://doi.org/f4zkw2
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0040609013006500-gr5.jpg
+- id: doi:10.1016/j.jpowsour.2012.01.093
+  title: Highly oriented hematite nanorods arrays for photoelectrochemical water splitting
+  authors:
+  - Vitor A.N. de Carvalho
+  - Roberto A. de S. Luz
+  - Bruno H. Lima
+  - Frank N. Crespilho
+  - Edson R. Leite
+  - Flavio L. Souza
+  publisher: Journal of Power Sources
+  date: '2012-05-01'
+  link: https://doi.org/fz3c6s
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775312001929-gr1.jpg
+- id: doi:10.1021/am301425e
+  title: 'Vertically Oriented Iron Oxide Films Produced by Hydrothermal Process: Effect
+    of Thermal Treatment on the Physical Chemical Properties'
+  authors:
+  - Lucas C. C. Ferraz
+  - Waldemir M. Carvalho
+  - Denise Criado
+  - Flavio L. Souza
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2012-10-02'
+  link: https://doi.org/f4bcgj
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/am301425e/asset/images/medium/am-2012-01425e_0007.gif
+- id: doi:10.1021/jp202101r
+  title: Quenching of Photoactivity in Phthalocyanine Copper(II) -Titanate Nanotube
+    Hybrid Systems
+  authors:
+  - W. Alves
+  - A. O. Ribeiro
+  - M. V. B. Pinheiro
+  - K. Krambrock
+  - F. El Haber
+  - G. Froyer
+  - O. Chauvet
+  - R. A. Ando
+  - F. L. Souza
+  - W. A. Alves
+  publisher: The Journal of Physical Chemistry C
+  date: '2011-06-02'
+  link: https://doi.org/fpbm7p
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/jp202101r/asset/images/medium/jp-2011-02101r_0001.gif
+- id: doi:10.1016/j.matchemphys.2011.06.040
+  title: Structural and dielectric characterization of praseodymium-modified lead
+    titanate ceramics synthesized by the OPM route
+  authors:
+  - Alexandre H. Pinto
+  - Flavio L. Souza
+  - Elson Longo
+  - Edson R. Leite
+  - Emerson R. Camargo
+  publisher: Materials Chemistry and Physics
+  date: '2011-10-01'
+  link: https://doi.org/fkjj4d
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058411005578-gr2.jpg
+- id: doi:10.1016/j.matchemphys.2010.08.030
+  title: Characterization of dense lead lanthanum titanate ceramics prepared from
+    powders synthesized by the oxidant peroxo method
+  authors:
+  - Alexandre H. Pinto
+  - Flavio L. Souza
+  - Adenilson J. Chiquito
+  - Elson Longo
+  - Edson R. Leite
+  - Emerson R. Camargo
+  publisher: Materials Chemistry and Physics
+  date: '2010-12-01'
+  link: https://doi.org/cf3j63
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://d3i71xaburhd42.cloudfront.net/acbc17cf3c9498a83a5baa2f9152deab6f26e038/2-Figure3-1.png
+- id: doi:10.1016/j.solmat.2008.11.049
+  title: 'Nanostructured hematite thin films produced by spin-coating deposition solution:
+    Application in water splitting'
+  authors:
+  - Flavio L. Souza
+  - Kirian P. Lopes
+  - Pedro A.P. Nascente
+  - Edson R. Leite
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2009-03-01'
+  link: https://doi.org/dk538w
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024808004479-gr1.jpg
+- id: doi:10.1039/B811946E
+  title: "The influence of the film thickness of nanostructured \u03B1-Fe2O3 on water\
+    \ photooxidation"
+  authors:
+  - Flavio Leandro Souza
+  - Kirian Pimenta Lopes
+  - Elson Longo
+  - Edson Roberto Leite
+  publisher: Physical Chemistry Chemical Physics
+  date: '2009-01-01'
+  link: https://doi.org/dv29zs
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=B811946E&imageInfo.ImageIdentifier.Year=2009
+- id: doi:10.1063/1.3023061
+  title: Anomalous current-voltage behavior of CaCu3Ti4O12 ceramics
+  authors:
+  - Marco A. L. Cordeiro
+  - Flavio L. Souza
+  - Edson R. Leite
+  - Alexandre J. C. Lanfredi
+  publisher: Applied Physics Letters
+  date: '2008-11-03'
+  link: https://doi.org/d2ngn5
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.3023061&id=images/medium/1.3023061.figures.f1.gif
+- id: doi:10.1002/cphc.200700629
+  title: Ion Relaxation Dynamics in a Decoupled Hybrid Polyelectrolyte
+  authors:
+  - Flavio Leandro Souza
+  - Elson Longo
+  - Edson Roberto Leite
+  publisher: ChemPhysChem
+  date: '2008-02-01'
+  link: https://doi.org/bp89f5
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/71d90234-af61-4970-913c-fd9270041713/mcontent.gif
+- id: doi:10.1002/cphc.200700260
+  title: 'Lithium Ion Motion in a Hybrid Polymer: Confirmation of a Decoupled Polyelectrolyte'
+  authors:
+  - Flavio L. Souza
+  - Elson Longo
+  - Edson R. Leite
+  publisher: ChemPhysChem
+  date: '2007-08-24'
+  link: https://doi.org/c5smbm
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4dea3080-81a3-4313-8ead-0aa34cf1baea/mcontent.gif
+- id: doi:10.1016/j.electacta.2007.04.063
+  title: Performance of a single-phase hybrid and nanocomposite polyelectrolyte in
+    classical electrochromic devices
+  authors:
+  - Flavio L. Souza
+  - Michel A. Aegerter
+  - Edson R. Leite
+  publisher: Electrochimica Acta
+  date: '2007-12-01'
+  link: https://doi.org/fk6984
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.researchgate.net/profile/Michel-Aegerter/publication/222817637/figure/fig5/AS:341647859699716@1458466605261/Transmittance-T-b-and-T-c-of-the-ECIII-device-at-l-550-nm-as-a-function-of-the-CA_Q320.jpg
+- id: doi:10.1016/j.solmat.2007.06.011
+  title: 'Solid hybrid polyelectrolyte with high performance in electrochromic devices:
+    Electrochemical stability and optical study'
+  authors:
+  - Flavio L. Souza
+  - Michel A. Aegerter
+  - Edson R. Leite
+  publisher: Solar Energy Materials and Solar Cells
+  date: '2007-11-01'
+  link: https://doi.org/fkpcq3
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.researchgate.net/profile/Michel-Aegerter/publication/237277011/figure/fig2/AS:299454700769288@1448406972201/a-Z-0-versus-Z-00-impedance-complex-plane-plots-for-SPHP-with-1_Q320.jpg
+- id: doi:10.1021/cm051003j
+  title: "Hybrid Organic\u2212Inorganic Polymer:\u2009 A New Approach for the Development\
+    \ of Decoupled Polymer Electrolytes"
+  authors:
+  - Edson R. Leite
+  - Flavio L. Souza
+  - Paulo R. Bueno
+  - Sergio de Lazaro
+  - Elson Longo
+  publisher: Chemistry of Materials
+  date: '2005-08-12'
+  link: https://doi.org/fdhsdv
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1557/proc-822-s3.1
+  title: Sol-Gel Non-hydrolytic Synthesis of a Nanocomposite Electrolyte for Application
+    in Lithium-ion Devices
+  authors:
+  - "Fl\xE1vio L. Souza"
+  - Paulo R. Bueno
+  - Ronaldo C. Faria
+  - Elson Longo
+  - Edson R. Leite
+  publisher: MRS Proceedings
+  date: '2004-01-01'
+  link: https://doi.org/grvhrj
+  orcid: 0000-0003-2036-9123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ssi.2003.10.009
+  title: "Sol\u2013gel nonhydrolytic synthesis of a hybrid organic\u2013inorganic\
+    \ electrolyte for application in lithium-ion devices"
+  authors:
+  - F Souza
+  publisher: Solid State Ionics
+  date: '2004-01-15'
+  link: https://doi.org/fbhckf
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167273803004764-gr3.sml
+- id: doi:10.1063/1.1765854
+  title: Structural and electrical characterization of dense lead zirconate titanate
+    ceramics synthesized by the oxidant-peroxo wet-chemical route
+  authors:
+  - Emerson R. Camargo
+  - Flavio L. Souza
+  - Edson R. Leite
+  - Masato Kakihana
+  publisher: Journal of Applied Physics
+  date: '2004-08-15'
+  link: https://doi.org/fqnwrs
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh7wpgm2qytDLl0_BnpTSApbQUgJDUNFxElFx3IPiXHIqnEvGinukyaoR7B2K8BhaBiI&usqp=CAU
+- id: doi:10.1016/S0254-0584(03)00083-X
+  title: Effect of the addition of ZnO seeds on the electrical proprieties of ZnO-based
+    varistors
+  authors:
+  - F.L. Souza
+  - J.W. Gomes
+  - P.R. Bueno
+  - M.R. Cassia-Santos
+  - A.L. Araujo
+  - E.R. Leite
+  - E. Longo
+  - J.A. Varela
+  publisher: Materials Chemistry and Physics
+  date: '2003-05-01'
+  link: https://doi.org/fdq399
+  orcid: 0000-0003-2036-9123
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S025405840300083X-gr1.sml
 - id: doi:10.1016/s1872-2067(21)63973-6
   title: Solution chemistry back-contact FTO/hematite interface engineering for efficient
     photocatalytic water oxidation
@@ -85,6 +1240,8 @@
   date: '2022-05-01'
   link: https://doi.org/grt3g7
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1872206721639736-fx1.jpg
+  tags:
+  - tag teste
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/cnma.202100510
@@ -104,23 +1261,6 @@
   image: https://onlinelibrary.wiley.com/cms/asset/11e367a3-a174-4e2c-852e-7d6b622f197f/cnma202100510-toc-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1149/2162-8777/ac6114
-  title: On the Effect of Thermal Processing on Sn Diffusion and Efficiency Enhancement
-    in Hematite/FTO Photoanodes
-  authors:
-  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
-  - "Beatriz Mouri\xF1o"
-  - "Andr\xE9 L. M. Freitas"
-  - Carlos A. R. Costa
-  - Elcio L Pires
-  - "Renato V. Gon\xE7alves"
-  - Lionel Vayssieres
-  - Flavio L. Souza
-  publisher: ECS Journal of Solid State Science and Technology
-  date: '2022-04-01'
-  link: https://doi.org/grt3hc
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3390/nano12121957
   title: Advances in Engineered Metal Oxide Thin Films by Low-Cost, Solution-Based
     Techniques for Green Hydrogen Production
@@ -134,991 +1274,5 @@
   date: '2022-06-07'
   link: https://doi.org/grt3jx
   image: https://www.mdpi.com/nanomaterials/nanomaterials-12-01957/article_deploy/html/images/nanomaterials-12-01957-g001-550.jpg
-  tags:
-  - iron oxide
-  - solution chemistry
-  - photoanodes
-  - hydrothermal synthesis
-  - sol-gel method
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/D0RA10176A
-  title: Challenges and prospects about the graphene role in the design of photoelectrodes
-    for sunlight-driven water splitting
-  authors:
-  - Saulo A. Carminati
-  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
-  - Andreia de Morais
-  - Bruno L. da Silva
-  - Mauricio A. Melo
-  - Flavio L. Souza
-  - Ana F. Nogueira
-  publisher: RSC Advances
-  date: '2021-01-01'
-  link: https://doi.org/grt3jz
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0RA10176A&imageInfo.ImageIdentifier.Year=2021
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acs.jpcc.0c11397
-  title: Insights on Thickness-Dependent Charge Transfer Efficiency Modulated by Ultrasonic
-    Treatment in Hematite Photoanodes
-  authors:
-  - Andre L. M. Freitas
-  - Aryane Tofanello
-  - Flavio L. Souza
-  - Yat Li
-  publisher: The Journal of Physical Chemistry C
-  date: '2021-04-29'
-  link: https://doi.org/gjv2fp
-  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.0c11397/asset/images/medium/jp0c11397_0009.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/5.0049914
-  title: Unveiling the dopant segregation effect at hematite interfaces
-  authors:
-  - Felipe C. de Lima
-  - Gabriel R. Schleder
-  - "Jo\xE3o B. Souza Junior"
-  - Flavio L. Souza
-  - "Fabr\xEDcio B. Destro"
-  - Roberto H. Miwa
-  - Edson R. Leite
-  - Adalberto Fazzio
-  publisher: Applied Physics Letters
-  date: '2021-05-17'
-  link: https://doi.org/gj3kw7
-  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0049914&id=images/medium/5.0049914.figures.online.highlight_f1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acs.chemmater.0c04305
-  title: Improving Thermodynamic Stability of nano-LiMn<sub>2</sub>O<sub>4</sub> for
-    Li-Ion Battery Cathode
-  authors:
-  - Kimiko Nakajima
-  - Flavio L. Souza
-  - Andre L. M. Freitas
-  - Andrew Thron
-  - Ricardo H. R. Castro
-  publisher: Chemistry of Materials
-  date: '2021-05-24'
-  link: https://doi.org/gj6nm3
-  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.0c04305/asset/images/medium/cm0c04305_0010.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/5.0060483
-  title: An intensity modulated photocurrent spectroscopy study of the role of titanium
-    in thick hematite photoanodes
-  authors:
-  - Ingrid Rodriguez-Gutierrez
-  - Joao B. Souza Junior
-  - Edson R. Leite
-  - Lionel Vayssieres
-  - Flavio L. Souza
-  publisher: Applied Physics Letters
-  date: '2021-08-16'
-  link: https://doi.org/gmjcrp
-  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0060483&id=images/medium/5.0060483.figures.online.highlight_f1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/5.0066931
-  title: On the relevance of understanding and controlling the locations of dopants
-    in hematite photoanodes for low-cost water splitting
-  authors:
-  - Joao B. Souza Junior
-  - Flavio L. Souza
-  - Lionel Vayssieres
-  - Oomman K. Varghese
-  publisher: Applied Physics Letters
-  date: '2021-11-15'
-  link: https://doi.org/gnpbk4
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0fX-qkbFAOXj__P-P515lOhrLtBsh-B7wT4V2WyaQLGkP1hzHjk7k3W9EdyLnr5w5v0&usqp=CAU
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.201901171
-  title: "Tailoring a Zinc Oxide Nanorod Surface by Adding an Earth\u2010Abundant\
-    \ Cocatalyst for Induced Sunlight Water Oxidation"
-  authors:
-  - Rafael M. Almeida
-  - Victoria C. Ferrari
-  - Juliana S. Souza
-  - Flavio L. Souza
-  - Wendel A. Alves
-  publisher: ChemPhysChem
-  date: '2020-02-03'
-  link: https://doi.org/grt3kf
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d86a0600-e768-40b2-8ad7-6f18da4a2d0b/cphc201901171-toc-0001-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2019.110378
-  title: An intensity-modulated photocurrent spectroscopy study of the charge carrier
-    dynamics of WO3/BiVO4 heterojunction systems
-  authors:
-  - "Ingrid Rodr\xEDguez-Guti\xE9rrez"
-  - Essossimna Djatoubai
-  - Jinzhan Su
-  - Alberto Vega-Poot
-  - "Geonel Rodr\xEDguez-Gattorno"
-  - Flavio L. Souza
-  - Gerko Oskam
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2020-05-01'
-  link: https://doi.org/gqzj8k
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307044-sc1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2020.110428
-  title: Enhancing the solar water splitting activity of TiO2 nanotube-array photoanode
-    by surface coating with La-doped SrTiO3
-  authors:
-  - Thalles T.A. Lucas
-  - Mauricio A. Melo
-  - "Andr\xE9 L.M. Freitas"
-  - Flavio L. Souza
-  - "Renato V. Gon\xE7alves"
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2020-05-01'
-  link: https://doi.org/gqzj8j
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024820300349-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2019.110377
-  title: 'Engineering interfacial modification on nanocrystalline hematite photoanodes:
-    A close look into the efficiency parameters'
-  authors:
-  - Dereck N.F. Muche
-  - Saulo A. Carminati
-  - Ana F. Nogueira
-  - Flavio L. Souza
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2020-05-01'
-  link: https://doi.org/grt3kg
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024819307032-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cctc.202000143
-  title: 'Role of Cocatalysts on Hematite Photoanodes in Photoelectrocatalytic Water
-    Splitting: Challenges and Future Perspectives'
-  authors:
-  - Karen C. Bedin
-  - Dereck N. F. Muche
-  - Mauricio A. Melo
-  - Andre L. M. Freitas
-  - "Renato V. Gon\xE7alves"
-  - Flavio L. Souza
-  publisher: ChemCatChem
-  date: '2020-05-05'
-  link: https://doi.org/grt3kh
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0272f24a-a327-4ceb-bb49-5b2ee0f2af3c/cctc202000143-toc-0001-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/5.0003146
-  title: Strategies to improve the photoelectrochemical performance of hematite nanorod-based
-    photoanodes
-  authors:
-  - Aryane Tofanello
-  - Shaohua Shen
-  - Flavio Leandro de Souza
-  - Lionel Vayssieres
-  publisher: APL Materials
-  date: '2020-04-01'
-  link: https://doi.org/grt3kj
-  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apm/2020/apm.2020.8.issue-4/5.0003146/20200407/images/medium/5.0003146.figures.online.f1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acs.jpcc.9b11966
-  title: 'Hematite Surface Modification toward Efficient Sunlight-Driven Water Splitting
-    Activity: The Role of Gold Nanoparticle Addition'
-  authors:
-  - Aryane Tofanello
-  - Andre L. M. Freitas
-  - Waldemir M. Carvalho
-  - Turkka Salminen
-  - Tapio Niemi
-  - Flavio L. Souza
-  publisher: The Journal of Physical Chemistry C
-  date: '2020-02-28'
-  link: https://doi.org/grt3nx
-  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.9b11966/asset/images/medium/jp9b11966_0007.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.enconman.2020.112975
-  title: Optimization of sulfonation process for the development of carbon-based catalyst
-    from crambe meal via response surface methodology
-  authors:
-  - Jhessica M. Fonseca
-  - Lucas Spessato
-  - "Andr\xE9 L. Cazetta"
-  - Karen C. Bedin
-  - Sandra A.R. Melo
-  - Flavio L. Souza
-  - Vitor C. Almeida
-  publisher: Energy Conversion and Management
-  date: '2020-08-01'
-  link: https://doi.org/grt3nz
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0196890420305197-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/ces2.10062
-  title: "Revealing the synergy of Sn insertion in hematite for next\u2010generation\
-    \ solar water splitting nanoceramics"
-  authors:
-  - Karen C. Bedin
-  - Andre L. M. Freitas
-  - Aryane Tofanello
-  - "Ingrid Rodr\xEDguez\u2010Guti\xE9rrez"
-  - Flavio L. Souza
-  publisher: International Journal of Ceramic Engineering &amp; Science
-  date: '2020-07-21'
-  link: https://doi.org/grt3n2
-  image: https://ceramics.onlinelibrary.wiley.com/cms/asset/ab725179-3acd-4e0a-9a7f-d22f3b2e730f/ces210062-fig-0001-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/5.0015519
-  title: Engineering hematite/plasmonic nanoparticle interfaces for efficient photoelectrochemical
-    water splitting
-  authors:
-  - A. Tofanello
-  - Z. Diao
-  - E. Djatoubai
-  - J. Z. Su
-  - S. H. Shen
-  - F. L. Souza
-  - L. Vayssieres
-  publisher: Journal of Applied Physics
-  date: '2020-08-14'
-  link: https://doi.org/gqzgqx
-  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/5.0015519&id=images/medium/5.0015519.figures.online.highlight_f1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jcat.2020.08.014
-  title: All-electrochemically synthesized tin and nickel oxide-modified hematite
-    as photo-electrocatalyst anodes for solar-driven water splitting
-  authors:
-  - Anelisse B. Silva
-  - Camila D.F. da Silva
-  - Flavio L. Souza
-  - Francisco W.S. Lucas
-  - Fabio H.B. Lima
-  publisher: Journal of Catalysis
-  date: '2020-11-01'
-  link: https://doi.org/grt3n3
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951720303250-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acsanm.0c01957
-  title: Pseudobrookite Fe<sub>2</sub>TiO<sub>5</sub> Nanoparticles Loaded with Earth-Abundant
-    Nanosized NiO and Co<sub>3</sub>O<sub>4</sub> Cocatalysts for Photocatalytic O<sub>2</sub>
-    Evolution via Solar Water Splitting
-  authors:
-  - Mauricio A. Melo
-  - Higor A. Centurion
-  - Thalles T. A. Lucas
-  - Dereck N. F. Muche
-  - Flavio L. Souza
-  - "Renato V. Gon\xE7alves"
-  publisher: ACS Applied Nano Materials
-  date: '2020-08-26'
-  link: https://doi.org/grt3n4
-  image: https://pubs.acs.org/cms/10.1021/acsanm.0c01957/asset/images/medium/an0c01957_0010.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/jace.17390
-  title: Interface engineering of nanoceramic hematite photoelectrode for solar energy
-    conversion
-  authors:
-  - Andre L. M. Freitas
-  - Dereck N. F. Muche
-  - Edson R. Leite
-  - Flavio L. Souza
-  publisher: Journal of the American Ceramic Society
-  date: '2020-08-17'
-  link: https://doi.org/grt3n5
-  image: https://ceramics.onlinelibrary.wiley.com/cms/asset/14c00c5b-e07e-43a1-88af-aa3556c3e411/jace17390-toc-0001-m.jpg?trick=1675687835311
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jcat.2018.12.010
-  title: Novel design of photocatalyst coaxial ferromagnetic core and semiconducting
-    shell microwire architecture
-  authors:
-  - G. Sombrio
-  - C.A.D. Pomar
-  - L.S. de Oliveira
-  - A.L.M. Freitas
-  - F.L. Souza
-  - J.A. Souza
-  publisher: Journal of Catalysis
-  date: '2019-02-01'
-  link: https://doi.org/grt3n6
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951718304901-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jcat.2019.02.030
-  title: Unraveling the role of single layer graphene as overlayer on hematite photoanodes
-  authors:
-  - Saulo Amaral Carminati
-  - "Andr\xE9 do Nascimento Barbosa"
-  - Andre Luiz Martins de Freitas
-  - "Fernando L\xE1zaro Freire"
-  - "Fl\xE1vio Leandro Souza"
-  - "Ana Fl\xE1via Nogueira"
-  publisher: Journal of Catalysis
-  date: '2019-04-01'
-  link: https://doi.org/grt3n7
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0021951719300910-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/aelm.201900065
-  title: "Unraveling the Role of Sn Segregation in the Electronic Transport of Polycrystalline\
-    \ Hematite: Raising the Electronic Conductivity by Lowering the Grain\u2010Boundary\
-    \ Blocking Effect"
-  authors:
-  - Mario R. S. Soares
-  - Carlos A. R. Costa
-  - Evandro M. Lanzoni
-  - Jefferson Bettini
-  - Carlos A. O. Ramirez
-  - Flavio L. Souza
-  - Elson Longo
-  - Edson R. Leite
-  publisher: Advanced Electronic Materials
-  date: '2019-04-08'
-  link: https://doi.org/grt3n8
-  image: https://onlinelibrary.wiley.com/cms/asset/33af4df6-3707-4c50-928e-e697a4e59786/aelm201900065-gra-0001-m.jpg?trick=1670785209110
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jallcom.2019.05.335
-  title: 'Annealing control of hydrothermally grown hematite nanorods: Implication
-    of structural changes and Cl concentration on weak ferromagnetism'
-  authors:
-  - W.M. Carvalho-Jr
-  - "L. Mendon\xE7a-Ferreira"
-  - F.N. Costa
-  - F.F. Ferreira
-  - D.N.F. Muche
-  - R.A. Tofanello
-  - R.H.R. Castro
-  - F.L. Souza
-  publisher: Journal of Alloys and Compounds
-  date: '2019-08-01'
-  link: https://doi.org/grt3n9
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C9TA05452A
-  title: Discovering a selective semimetal element to increase hematite photoanode
-    charge separation efficiency
-  authors:
-  - "Andr\xE9 Esteves Nogueira"
-  - Mario Rodrigo Santos Soares
-  - "Jo\xE3o Batista Souza Junior"
-  - Carlos Alberto Ospina Ramirez
-  - Flavio Leandro Souza
-  - Edson Roberto Leite
-  publisher: Journal of Materials Chemistry A
-  date: '2019-01-01'
-  link: https://doi.org/grt3pr
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9TA05452A&imageInfo.ImageIdentifier.Year=2019
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.matlet.2019.07.068
-  title: 'Tailoring hematite/FTO interfaces: New horizons for spin-coated hematite
-    photoanodes targeting water splitting'
-  authors:
-  - Dereck N.F. Muche
-  - Thayna M.G. dos Santos
-  - Gabriela P. Leite
-  - Mauricio A. Melo
-  - "Renato V. Gon\xE7alves"
-  - Flavio L. Souza
-  publisher: Materials Letters
-  date: '2019-11-01'
-  link: https://doi.org/grt3ps
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167577X19310547-ga1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acs.jpclett.9b02928
-  title: Controlling the Activation Energy for Single-Ion Diffusion through a Hybrid
-    Polyelectrolyte Matrix by Manipulating the Central Coordinate Semimetal Atom
-  authors:
-  - Victoria C. Ferrari
-  - Raphael S. Alvim
-  - Thiago B. de Queiroz
-  - Gustavo M. Dalpian
-  - Flavio L. Souza
-  publisher: The Journal of Physical Chemistry Letters
-  date: '2019-11-25'
-  link: https://doi.org/grt3pt
-  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b02928/asset/images/medium/jz9b02928_0005.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1590/0001-3765201820170581
-  title: Sunlight-driven water splitting using hematite nanorod photoelectrodes
-  authors:
-  - FLAVIO L. SOUZA
-  publisher: "Anais da Academia Brasileira de Ci\xEAncias"
-  date: '2018-01-01'
-  link: https://doi.org/grt3pv
-  image: https://minio.scielo.br/documentstore/1678-2690/tYKv5XjMsTfysjJhGVdxfKR/058fcf17e52f0d7897875ae7cc1e334070f91e41.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.matchemphys.2018.02.044
-  title: Rapid microwave-assisted synthesis of zirconium aluminide
-  authors:
-  - Waldemir. M. Carvalho-Jr
-  - Flavio L. Souza
-  - Sydney Ferreira Santos
-  - Jean-Louis Bobet
-  publisher: Materials Chemistry and Physics
-  date: '2018-06-01'
-  link: https://doi.org/gdhvsf
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058418301482-egi10SGKL50T8Q.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/slct.201800383
-  title: Synthesis of SnS and ZnS Hollow Microarchitectures Decorated with Nanostructures
-    and Their Photocatalytic Behavior for Dye Degradation
-  authors:
-  - Cesar D. Pomar
-  - Aryane T. Souza
-  - Guilherme Sombrio
-  - Flavio L. Souza
-  - Jean J. Bonvent
-  - Jose A. Souza
-  publisher: ChemistrySelect
-  date: '2018-04-06'
-  link: https://doi.org/gdgdqz
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bc0f9f66-caac-4b7c-bf3a-23c70b0f6180/slct201800383-toc-0001-m.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ceramint.2018.09.097
-  title: Photoactive multilayer WO3 electrode synthesized via dip-coating
-  authors:
-  - Victoria C. Ferrari
-  - Ivaldete S. Dupim
-  - Vinicius Sousa
-  - Flavio L. Souza
-  publisher: Ceramics International
-  date: '2018-12-01'
-  link: https://doi.org/ggqwsr
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S027288421832563X-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C7RE00183E
-  title: New ultrasonic assisted co-precipitation for high surface area oxide based
-    nanostructured materials
-  authors:
-  - Dereck N. F. Muche
-  - Flavio L. Souza
-  - Ricardo H. R. Castro
-  publisher: Reaction Chemistry &amp; Engineering
-  date: '2018-01-01'
-  link: https://doi.org/grt3pw
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RE00183E&imageInfo.ImageIdentifier.Year=2018
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C7RA03277C
-  title: Synthesis, growth mechanism, optical properties and catalytic activity of
-    ZnO microcrystals obtained via hydrothermal processing
-  authors:
-  - "Edgar Alves Ara\xFAjo J\xFAnior"
-  - Francisco Xavier Nobre
-  - Giancarlo da Silva Sousa
-  - "La\xE9cio Santos Cavalcante"
-  - Maria Rita de Morais Chaves Santos
-  - Flavio Leandro Souza
-  - "Jos\xE9 Milton Elias de Matos"
-  publisher: RSC Advances
-  date: '2017-01-01'
-  link: https://doi.org/grt3px
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7RA03277C&imageInfo.ImageIdentifier.Year=2017
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C7CP04827K
-  title: High temperature activation of hematite nanorods for sunlight driven water
-    oxidation reaction
-  authors:
-  - Nathalie Minko Ito
-  - Waldemir Moura Carvalho
-  - Dereck Nills Ferreira Muche
-  - Ricardo Hauch Ribeiro Castro
-  - Gustavo Martini Dalpian
-  - Flavio Leandro Souza
-  publisher: Physical Chemistry Chemical Physics
-  date: '2017-01-01'
-  link: https://doi.org/grt3pz
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP04827K&imageInfo.ImageIdentifier.Year=2017
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1088/1361-6528/aa8b5d
-  title: Synergetic effect of Sn addition and oxygen-deficient atmosphere to fabricate
-    active hematite photoelectrodes for light-induced water splitting
-  authors:
-  - Andre L M Freitas
-  - Flavio L Souza
-  publisher: Nanotechnology
-  date: '2017-10-17'
-  link: https://doi.org/grt3p2
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyU7nO75Yq8hFbu-RkrJO__ep3S0JbPs48UrNNNc2p59lUfFGeLyyFVmWCIsngmeNCaQ&usqp=CAU
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jeurceramsoc.2017.10.041
-  title: Kinetic and thermodynamic effects of manganese as a densification aid in
-    yttria-stabilized zirconia
-  authors:
-  - Hui Li
-  - Flavio L. Souza
-  - Ricardo H.R. Castro
-  publisher: Journal of the European Ceramic Society
-  date: '2018-04-01'
-  link: https://doi.org/gc33j6
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0955221917307215-gr6.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C7CP06558B
-  title: Surface Fe vacancy defects on haematite and their role in light-induced water
-    splitting in artificial photosynthesis
-  authors:
-  - Fabio Ribeiro Negreiros
-  - Luana Sucupira Pedroza
-  - Flavio Leandro Souza
-  - Gustavo Martini Dalpian
-  publisher: Physical Chemistry Chemical Physics
-  date: '2017-01-01'
-  link: https://doi.org/grt3qk
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C7CP06558B&imageInfo.ImageIdentifier.Year=2017
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2015.09.028
-  title: Thermal enhancement of water affinity on the surface of undoped hematite
-    photoelectrodes
-  authors:
-  - Waldemir M. Carvalho-Jr
-  - Flavio L. Souza
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2016-01-01'
-  link: https://doi.org/f73z8x
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024815004614-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.201500659
-  title: Enhancing Hematite Photoanode Activity for Water Oxidation by Incorporation
-    of Reduced Graphene Oxide
-  authors:
-  - "Saulo do\u2005Amaral\u2005Carminati"
-  - Flavio L. Souza
-  - Ana F. Nogueira
-  publisher: ChemPhysChem
-  date: '2015-11-27'
-  link: https://doi.org/f3j6jd
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ef184a42-1ad7-4587-a46b-2c3c6764ccd7/cphc201500659-toc-0001-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C5TA06646H
-  title: Multihierarchical electrodes based on titanate nanotubes and zinc oxide nanorods
-    for photoelectrochemical water splitting
-  authors:
-  - J. S. Souza
-  - W. M. Carvalho
-  - F. L. Souza
-  - C. Ponce-de-Leon
-  - D. V. Bavykin
-  - W. A. Alves
-  publisher: Journal of Materials Chemistry A
-  date: '2016-01-01'
-  link: https://doi.org/grt3qm
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5TA06646H&imageInfo.ImageIdentifier.Year=2016
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jallcom.2016.03.008
-  title: "Effect of microwave irradiation on hydrogen sorption properties of hand\
-    \ mixed MgH2 \u2013 10\_wt.% carbon fibers"
-  authors:
-  - A.S. Awad
-  - M. Nakhl
-  - M. Zakhour
-  - S.F. Santos
-  - F.L. Souza
-  - J.-L. Bobet
-  publisher: Journal of Alloys and Compounds
-  date: '2016-08-01'
-  link: https://doi.org/grt3qn
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.tsf.2016.03.011
-  title: "Effect of thermal treatment on solid\u2013solid interface of hematite thin\
-    \ film synthesized by spin-coating deposition solution"
-  authors:
-  - Daniel Angel Bellido-Aguilar
-  - Aryane Tofanello
-  - Flavio L. Souza
-  - Leonardo Negri Furini
-  - "Carlos Jos\xE9 Leopoldo Constantino"
-  publisher: Thin Solid Films
-  date: '2016-04-01'
-  link: https://doi.org/f8hcgs
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.201600316
-  title: Hematite Surface Activation by Chemical Addition of Tin Oxide Layer
-  authors:
-  - Waldemir M. Carvalho
-  - Flavio L. Souza
-  publisher: ChemPhysChem
-  date: '2016-06-17'
-  link: https://doi.org/f3qd2s
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/7863e603-af5d-44a3-87ac-b1144ff44af9/cphc201600316-toc-0001-m.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ceramint.2016.06.035
-  title: Dielectric characterization of microwave sintered lead zirconate titanate
-    ceramics
-  authors:
-  - "Mayra D. Gon\xE7alves"
-  - Flavio L. Souza
-  - Elson Longo
-  - Edson R. Leite
-  - Emerson R. Camargo
-  publisher: Ceramics International
-  date: '2016-10-01'
-  link: https://doi.org/f8zg8h
-  image: http://cdmf.org.br/wp-content/uploads/2016/06/FEG-images-of-fractured-PZT-ceramic-bodies-sintered-in-conventional-and-microwave-ovens-1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/acsami.6b11950
-  title: Zinc Oxide Flower-Like Nanostructures That Exhibit Enhanced Toxicology Effects
-    in Cancer Cells
-  authors:
-  - "I\xEAda M. M. Paino"
-  - "Fernanda J. Gon\xE7alves"
-  - Flavio L. Souza
-  - Valtencir Zucolotto
-  publisher: ACS Applied Materials &amp; Interfaces
-  date: '2016-11-23'
-  link: https://doi.org/f9d7nn
-  image: https://pubs.acs.org/cms/10.1021/acsami.6b11950/asset/images/medium/am-2016-11950h_0008.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1557/jmr.2015.353
-  title: Enhanced water oxidation efficiency of hematite thin films by oxygen-deficient
-    atmosphere
-  authors:
-  - "Andr\xE9 L.M. Freitas"
-  - Waldemir M. Carvalho
-  - Flavio L. Souza
-  publisher: Journal of Materials Research
-  date: '2015-12-09'
-  link: https://doi.org/grt3qp
-  image: https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0884291415003532/resource/name/S0884291415003532_figAb.jpeg?pub-status=live
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1557/jmr.2013.302
-  title: Recent advances on solar water splitting using hematite nanorod film produced
-    by purpose-built material methods
-  authors:
-  - Waldemir Moura de Carvalho
-  - Flavio Leandro Souza
-  publisher: Journal of Materials Research
-  date: '2013-11-13'
-  link: https://doi.org/grt3qr
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20160922085019-92071-mediumThumb-S0884291413003026_fig1g.jpg?pub-status=live
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/C3RA42753F
-  title: Morphological and structural evolution from akaganeite to hematite of nanorods
-    monitored by ex situ synchrotron X-ray powder diffraction
-  authors:
-  - Allan Moreira Xavier
-  - Fabio Furlan Ferreira
-  - Flavio Leandro Souza
-  publisher: RSC Adv.
-  date: '2014-01-01'
-  link: https://doi.org/grt3rb
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C3RA42753F&imageInfo.ImageIdentifier.Year=2014
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.201300054
-  title: Large-Area Plasmonic Substrate of Silver-Coated Iron Oxide Nanorod Arrays
-    for Plasmon-Enhanced Spectroscopy
-  authors:
-  - Waldemir Moura Carvalho
-  - Diogo Volpati
-  - Vitor A. Nunes Carvalho
-  - Ricardo F. Aroca
-  - Carlos J. L. Constantino
-  - Flavio L. Souza
-  publisher: ChemPhysChem
-  date: '2013-05-06'
-  link: https://doi.org/f2cw5v
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ec149d89-2a6c-489a-a876-3d6a586e87e5/mcontent.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jallcom.2013.04.126
-  title: Facile synthetic route for producing one-dimensional zinc oxide nanoflowers
-    and characterization of their optical properties
-  authors:
-  - Daniel M. Cunha
-  - Flavio L. Souza
-  publisher: Journal of Alloys and Compounds
-  date: '2013-11-01'
-  link: https://doi.org/f49ddc
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0925838813010384-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.tsf.2013.04.034
-  title: Zinc oxide flower-like synthesized under hydrothermal conditions
-  authors:
-  - Daniel M. Cunha
-  - Nathalie M. Ito
-  - Allan M. Xavier
-  - Jeverson T. Arantes
-  - Flavio L. Souza
-  publisher: Thin Solid Films
-  date: '2013-06-01'
-  link: https://doi.org/f4zkw2
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0040609013006500-gr5.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0076857
-  title: UV-Light Effects on Cytochrome C Modulated by the Aggregation State of Phenothiazines
-  authors:
-  - Carolina G. dos Santos
-  - "Andr\xE9 L. Silva"
-  - Flavio L. Souza
-  - Alexandre J. C. Lanfredi
-  - Paolo Di Mascio
-  - Otaciro R. Nascimento
-  - Tiago Rodrigues
-  - Iseli L. Nantes
-  publisher: PLoS ONE
-  date: '2013-10-09'
-  link: https://doi.org/grt3rc
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3793907/bin/pone.0076857.g003.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.jpowsour.2012.01.093
-  title: Highly oriented hematite nanorods arrays for photoelectrochemical water splitting
-  authors:
-  - Vitor A.N. de Carvalho
-  - Roberto A. de S. Luz
-  - Bruno H. Lima
-  - Frank N. Crespilho
-  - Edson R. Leite
-  - Flavio L. Souza
-  publisher: Journal of Power Sources
-  date: '2012-05-01'
-  link: https://doi.org/fz3c6s
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378775312001929-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/am301425e
-  title: 'Vertically Oriented Iron Oxide Films Produced by Hydrothermal Process: Effect
-    of Thermal Treatment on the Physical Chemical Properties'
-  authors:
-  - Lucas C. C. Ferraz
-  - Waldemir M. Carvalho
-  - Denise Criado
-  - Flavio L. Souza
-  publisher: ACS Applied Materials &amp; Interfaces
-  date: '2012-10-02'
-  link: https://doi.org/f4bcgj
-  image: https://pubs.acs.org/cms/10.1021/am301425e/asset/images/medium/am-2012-01425e_0007.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/jp202101r
-  title: Quenching of Photoactivity in Phthalocyanine Copper(II) -Titanate Nanotube
-    Hybrid Systems
-  authors:
-  - W. Alves
-  - A. O. Ribeiro
-  - M. V. B. Pinheiro
-  - K. Krambrock
-  - F. El Haber
-  - G. Froyer
-  - O. Chauvet
-  - R. A. Ando
-  - F. L. Souza
-  - W. A. Alves
-  publisher: The Journal of Physical Chemistry C
-  date: '2011-06-02'
-  link: https://doi.org/fpbm7p
-  image: https://pubs.acs.org/cms/10.1021/jp202101r/asset/images/medium/jp-2011-02101r_0001.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.matchemphys.2011.06.040
-  title: Structural and dielectric characterization of praseodymium-modified lead
-    titanate ceramics synthesized by the OPM route
-  authors:
-  - Alexandre H. Pinto
-  - Flavio L. Souza
-  - Elson Longo
-  - Edson R. Leite
-  - Emerson R. Camargo
-  publisher: Materials Chemistry and Physics
-  date: '2011-10-01'
-  link: https://doi.org/fkjj4d
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058411005578-gr2.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.matchemphys.2010.08.030
-  title: Characterization of dense lead lanthanum titanate ceramics prepared from
-    powders synthesized by the oxidant peroxo method
-  authors:
-  - Alexandre H. Pinto
-  - Flavio L. Souza
-  - Adenilson J. Chiquito
-  - Elson Longo
-  - Edson R. Leite
-  - Emerson R. Camargo
-  publisher: Materials Chemistry and Physics
-  date: '2010-12-01'
-  link: https://doi.org/cf3j63
-  image: https://d3i71xaburhd42.cloudfront.net/acbc17cf3c9498a83a5baa2f9152deab6f26e038/2-Figure3-1.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2008.11.049
-  title: 'Nanostructured hematite thin films produced by spin-coating deposition solution:
-    Application in water splitting'
-  authors:
-  - Flavio L. Souza
-  - Kirian P. Lopes
-  - Pedro A.P. Nascente
-  - Edson R. Leite
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2009-03-01'
-  link: https://doi.org/dk538w
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0927024808004479-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1039/B811946E
-  title: "The influence of the film thickness of nanostructured \u03B1-Fe2O3 on water\
-    \ photooxidation"
-  authors:
-  - Flavio Leandro Souza
-  - Kirian Pimenta Lopes
-  - Elson Longo
-  - Edson Roberto Leite
-  publisher: Physical Chemistry Chemical Physics
-  date: '2009-01-01'
-  link: https://doi.org/dv29zs
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=B811946E&imageInfo.ImageIdentifier.Year=2009
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.200700629
-  title: Ion Relaxation Dynamics in a Decoupled Hybrid Polyelectrolyte
-  authors:
-  - Flavio Leandro Souza
-  - Elson Longo
-  - Edson Roberto Leite
-  publisher: ChemPhysChem
-  date: '2008-02-01'
-  link: https://doi.org/bp89f5
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/71d90234-af61-4970-913c-fd9270041713/mcontent.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/1.3023061
-  title: Anomalous current-voltage behavior of CaCu3Ti4O12 ceramics
-  authors:
-  - Marco A. L. Cordeiro
-  - Flavio L. Souza
-  - Edson R. Leite
-  - Alexandre J. C. Lanfredi
-  publisher: Applied Physics Letters
-  date: '2008-11-03'
-  link: https://doi.org/d2ngn5
-  image: https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.3023061&id=images/medium/1.3023061.figures.f1.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/cphc.200700260
-  title: 'Lithium Ion Motion in a Hybrid Polymer: Confirmation of a Decoupled Polyelectrolyte'
-  authors:
-  - Flavio L. Souza
-  - Elson Longo
-  - Edson R. Leite
-  publisher: ChemPhysChem
-  date: '2007-08-24'
-  link: https://doi.org/c5smbm
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4dea3080-81a3-4313-8ead-0aa34cf1baea/mcontent.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.solmat.2007.06.011
-  title: 'Solid hybrid polyelectrolyte with high performance in electrochromic devices:
-    Electrochemical stability and optical study'
-  authors:
-  - Flavio L. Souza
-  - Michel A. Aegerter
-  - Edson R. Leite
-  publisher: Solar Energy Materials and Solar Cells
-  date: '2007-11-01'
-  link: https://doi.org/fkpcq3
-  image: https://www.researchgate.net/profile/Michel-Aegerter/publication/237277011/figure/fig2/AS:299454700769288@1448406972201/a-Z-0-versus-Z-00-impedance-complex-plane-plots-for-SPHP-with-1_Q320.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.electacta.2007.04.063
-  title: Performance of a single-phase hybrid and nanocomposite polyelectrolyte in
-    classical electrochromic devices
-  authors:
-  - Flavio L. Souza
-  - Michel A. Aegerter
-  - Edson R. Leite
-  publisher: Electrochimica Acta
-  date: '2007-12-01'
-  link: https://doi.org/fk6984
-  image: https://www.researchgate.net/profile/Michel-Aegerter/publication/222817637/figure/fig5/AS:341647859699716@1458466605261/Transmittance-T-b-and-T-c-of-the-ECIII-device-at-l-550-nm-as-a-function-of-the-CA_Q320.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1021/cm051003j
-  title: "Hybrid Organic\u2212Inorganic Polymer:\u2009 A New Approach for the Development\
-    \ of Decoupled Polymer Electrolytes"
-  authors:
-  - Edson R. Leite
-  - Flavio L. Souza
-  - Paulo R. Bueno
-  - Sergio de Lazaro
-  - Elson Longo
-  publisher: Chemistry of Materials
-  date: '2005-08-12'
-  link: https://doi.org/fdhsdv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ssi.2003.10.009
-  title: "Sol\u2013gel nonhydrolytic synthesis of a hybrid organic\u2013inorganic\
-    \ electrolyte for application in lithium-ion devices"
-  authors:
-  - F Souza
-  publisher: Solid State Ionics
-  date: '2004-01-15'
-  link: https://doi.org/fbhckf
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167273803004764-gr3.sml
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1063/1.1765854
-  title: Structural and electrical characterization of dense lead zirconate titanate
-    ceramics synthesized by the oxidant-peroxo wet-chemical route
-  authors:
-  - Emerson R. Camargo
-  - Flavio L. Souza
-  - Edson R. Leite
-  - Masato Kakihana
-  publisher: Journal of Applied Physics
-  date: '2004-08-15'
-  link: https://doi.org/fqnwrs
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh7wpgm2qytDLl0_BnpTSApbQUgJDUNFxElFx3IPiXHIqnEvGinukyaoR7B2K8BhaBiI&usqp=CAU
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/S0254-0584(03)00083-X
-  title: Effect of the addition of ZnO seeds on the electrical proprieties of ZnO-based
-    varistors
-  authors:
-  - F.L. Souza
-  - J.W. Gomes
-  - P.R. Bueno
-  - M.R. Cassia-Santos
-  - A.L. Araujo
-  - E.R. Leite
-  - E. Longo
-  - J.A. Varela
-  publisher: Materials Chemistry and Physics
-  date: '2003-05-01'
-  link: https://doi.org/fdq399
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S025405840300083X-gr1.sml
   plugin: sources.py
   file: sources.yaml

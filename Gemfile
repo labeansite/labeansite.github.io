@@ -12,5 +12,3 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
 end
-
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
