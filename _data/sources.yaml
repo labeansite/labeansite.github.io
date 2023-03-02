@@ -1,7 +1,5 @@
 - id: doi:10.1016/s1872-2067(21)63973-6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1872206721639736-fx1.jpg
-  tags:
-    - tag teste
 
 - id: doi:10.1002/cnma.202100510
   image: https://onlinelibrary.wiley.com/cms/asset/11e367a3-a174-4e2c-852e-7d6b622f197f/cnma202100510-toc-0001-m.jpg
@@ -15,8 +13,12 @@
 
 - id: doi:10.3390/nano12121957
   image: https://www.mdpi.com/nanomaterials/nanomaterials-12-01957/article_deploy/html/images/nanomaterials-12-01957-g001-550.jpg
-#  tags:
-#    - tag teste
+  tags:
+    - iron oxide
+    - solution chemistry
+    - photoanodes
+    - hydrothermal synthesis
+    - sol-gel method
 
 - id: doi:10.1039/D0RA10176A
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0RA10176A&imageInfo.ImageIdentifier.Year=2021 
