@@ -62,12 +62,6 @@
   date: '2021-11-15'
   link: https://doi.org/gnpbk4
   orcid: 0000-0003-2036-9123
-  tags:
-  - iron oxide
-  - solution chemistry
-  - photoanodes
-  - hydrothermal synthesis
-  - sol-gel method
   plugin: sources.py
   file: sources.yaml
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0fX-qkbFAOXj__P-P515lOhrLtBsh-B7wT4V2WyaQLGkP1hzHjk7k3W9EdyLnr5w5v0&usqp=CAU
@@ -1240,8 +1234,6 @@
   date: '2022-05-01'
   link: https://doi.org/grt3g7
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1872206721639736-fx1.jpg
-  tags:
-  - tag teste
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/cnma.202100510
@@ -1274,5 +1266,11 @@
   date: '2022-06-07'
   link: https://doi.org/grt3jx
   image: https://www.mdpi.com/nanomaterials/nanomaterials-12-01957/article_deploy/html/images/nanomaterials-12-01957-g001-550.jpg
+  tags:
+  - iron oxide
+  - solution chemistry
+  - photoanodes
+  - hydrothermal synthesis
+  - sol-gel method
   plugin: sources.py
   file: sources.yaml
