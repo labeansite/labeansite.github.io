@@ -39,7 +39,7 @@ header a {
   justify-content: flex-start;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 15px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
@@ -90,7 +90,7 @@ header .navbar-toggle-icon-bar {
   display: block;
   width: 25px;
   height: 3px;
-  background-color: white;
+  background-color: var(--text);
   margin: 5px 0;
 }
 @media (max-width: 700px) {
@@ -153,7 +153,7 @@ header[data-big] .title > *:last-child {
   font-size: var(--large);
 }
 header[data-big] nav {
-  font-size: large;
+  font-size: 1.25em;
 }
 
 @media (max-width: 1000px) {
