@@ -2,10 +2,12 @@
 <html lang="en" data-dark="false">
   {% include head.html %}
   <body>
-    {% include header.html %}
-    <main>
-      {% include content.html content=content %}
-    </main>
-    {% include footer.html %}
+    <div style="overflow-x: clip;">
+      {% include header.html %}
+      <main>
+        {% include content.html content=content %}
+      </main>
+      {% include footer.html %}
+    </div>
   </body>
 </html>
