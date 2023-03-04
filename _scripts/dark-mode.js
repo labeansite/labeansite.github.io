@@ -11,9 +11,20 @@
   document.documentElement.dataset.dark = loadDark();
 
   const onLoad = () => {
-    // update toggle button to match loaded mode
-    document.querySelector(".dark-toggle").checked =
-      document.documentElement.dataset.dark === "true";
+    // Get references to all checkboxes with class "dark-toggle"
+    const checkboxes = document.querySelectorAll('.dark-toggle');
+
+    // Add event listeners to each checkbox
+    checkboxes.forEach(checkbox => {
+      // update toggle button to match loaded mode
+      checkbox.checked = document.documentElement.dataset.dark === "true";
+      checkbox.addEventListener('change', () => {
+          // Update the state of all checkboxes to match the first checkbox
+          checkboxes.forEach(otherCheckbox => {
+            otherCheckbox.checked = checkbox.checked;
+        });
+      });
+    });
   };
 
   // after page loads
