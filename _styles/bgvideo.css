@@ -83,7 +83,7 @@
 .video-scroll-button {
   color: white;
   opacity: 0.7;
-  font-size: calc(1.7 * (1vw + 1vh + 0.5vmin));
+  font-size: clamp(30px, 1.7 * (1vw + 1vh + 0.5vmin), 45px);
   margin-top: -20px;
 }
 @media (max-height: 500px) {
