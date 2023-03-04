@@ -36,9 +36,11 @@
     {% endif %}
   </a>
 
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
-
-  <nav>
+  
+  <nav data-dark="inherit">
+    <button class="navbar-close">
+      <i class="fas fa-x"></i>
+    </button>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
@@ -54,4 +56,11 @@
       {% endif %}
     {% endfor %}
   </nav>
+
+  <button class="navbar-toggle">
+    <span class="navbar-toggle-icon-bar"></span>
+    <span class="navbar-toggle-icon-bar"></span>
+    <span class="navbar-toggle-icon-bar"></span>
+  </button>
+
 </header>
