@@ -28,24 +28,27 @@
   left: calc(100% - 12px);
 }
 
-.dark-toggle-freeze:checked:after {
-  left: 12px;
+.dark-side-toggle:not(:hover) input:after {
+  left: calc(100% - 12px);
 }
 
 .dark-side-toggle {
   position: fixed;
-  left: -25px;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translate(-50%, -50%);
   padding: 6px;
   z-index: 9;
-  transition: left 0.5s;
-  transform: scaleX(-1);
+  transition: transform 0.5s;
 }
 
 @media (min-width: 700px) {
   .dark-side-toggle:hover {
-    left: 0px !important;
+    transform: translate(0%, -50%);
+  }
+}
+@media (max-width: 700px) {
+  .dark-side-toggle input:after {
+    left: calc(100% - 12px) !important;
   }
 }
 
