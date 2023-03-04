@@ -20,8 +20,6 @@
                 });
             });
     
-            console.log(navbar.getBoundingClientRect().height)
-    
             // Set the initial value of the --navbar-height variable to the navbar's height
             function updateNavbarHeight() {
                 document.documentElement.style.setProperty('--navbar-height', navbar.getBoundingClientRect().height + 'px');

@@ -52,7 +52,7 @@ header a {
   justify-content: flex-start;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 15px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
@@ -109,7 +109,7 @@ header {
     display: block;
     width: 25px;
     height: 3px;
-    background-color: white;
+    background-color: var(--text);
     margin: 5px 0;
   }
 
@@ -183,7 +183,7 @@ header[data-big] {
   }
 
   nav {
-    font-size: large;
+    font-size: 1.25em;
   }
 }
 
