@@ -350,6 +350,8 @@
 
   <script src="/_scripts/fetch-tags.js"></script>
 
+  <script src="/_scripts/navbar-mobile-menu.js"></script>
+
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
@@ -360,7 +362,8 @@
 </head>
 
   <body>
-    
+    <div style="overflow-x: clip;">
+      
 
 
 
@@ -389,9 +392,11 @@
     
   </a>
 
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
-
-  <nav>
+  
+  <nav data-dark="inherit">
+    <button class="navbar-close">
+      <i class="fas fa-x"></i>
+    </button>
     
     
       
@@ -425,10 +430,17 @@
       
     
   </nav>
+
+  <button class="navbar-toggle">
+    <span class="navbar-toggle-icon-bar"></span>
+    <span class="navbar-toggle-icon-bar"></span>
+    <span class="navbar-toggle-icon-bar"></span>
+  </button>
+
 </header>
 
-    <main>
-      <!--
+      <main>
+        <!--
   modify main content of page:
   - add section breaks
   - attach section properties
@@ -575,8 +587,8 @@ sed do eiusmod tempor</p>
   </section>
 
 
-    </main>
-    
+      </main>
+      
 
 
 <footer class="background" style="--image: url('/images/site/barra_inferior.jpg')" data-dark="true" data-size="wide">
@@ -662,5 +674,6 @@ sed do eiusmod tempor</p>
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
+    </div>
   </body>
 </html>
