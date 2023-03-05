@@ -5,8 +5,11 @@
 
 {
   const onLoad = () => {
-    // make sure Tippy library available
-    if (typeof tippy === "undefined") return;
+    // Check if the user is on a mobile device
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    
+    // make sure Tippy library available and the user is not on a mobile device
+    if (typeof tippy === "undefined" || isMobile) return;
 
     // get elements with non-empty tooltips
     const elements = [...document.querySelectorAll("[data-tooltip]")].filter(
