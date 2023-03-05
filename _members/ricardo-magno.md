@@ -1,6 +1,6 @@
 ---
 name: Ricardo Magno
-image: images\team\ricardo.jpg
+image: images/team/ricardo.jpg
 role: postdoc
 ex-member: false
 aliases:
