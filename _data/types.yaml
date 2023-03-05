@@ -85,7 +85,7 @@ search:
 # social media
 
 lattes:
-  icon: fa-solid fa-arrow-up-right-from-square
+  icon: lattes.png
   text: Lattes
   tootip: Lattes
   link: http://lattes.cnpq.br/$VALUE
