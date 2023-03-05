@@ -85,7 +85,7 @@ search:
 # social media
 
 lattes:
-  icon: lattes.png
+  icon: lattes.svg
   text: Lattes
   tootip: Lattes
   link: http://lattes.cnpq.br/$VALUE
