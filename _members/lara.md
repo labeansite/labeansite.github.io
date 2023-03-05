@@ -5,7 +5,7 @@ role: phd
 ex-member: false
 links:
   email: laramarquesdaminelli@gmail.com
-  lattes: 7649841231085914
+  lattes: "7649841231085914"
   orcid: 0000-0002-9027-8537
 ---
 

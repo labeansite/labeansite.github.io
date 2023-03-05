@@ -5,7 +5,7 @@ role: intern
 ex-member: false
 links:
   email: m184652@dac.unicamp.br  
-  lattes: 5788501413906324
+  lattes: "5788501413906324"
 
 ---
 
