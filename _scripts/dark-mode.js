@@ -25,6 +25,26 @@
         });
       });
     });
+
+    const darkSideToggle = document.querySelector('.dark-side-toggle');
+
+    if(window.location.pathname === '/') {
+      function hideUpdate() {
+        if (window.scrollY === 0) {
+          darkSideToggle.classList.remove('dark-side-toggle-show');
+        } else {
+          darkSideToggle.classList.add('dark-side-toggle-show');
+        }
+      }
+      
+      hideUpdate()
+  
+      window.addEventListener('scroll', hideUpdate);
+    }
+    else {
+      darkSideToggle.classList.add('dark-side-toggle-show');
+    }
+
   };
 
   // after page loads

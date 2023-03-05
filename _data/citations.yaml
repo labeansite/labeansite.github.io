@@ -751,7 +751,7 @@
   publisher: Journal of Materials Research
   date: '2013-11-13'
   link: https://doi.org/grt3qr
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20160922085019-92071-mediumThumb-S0884291413003026_fig1g.jpg?pub-status=live
+  image: images/research/urn_cambridge.org_id_binary-alt_20160922085019-92071-mediumThumb-S0884291413003026_fig1g.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C3RA42753F
