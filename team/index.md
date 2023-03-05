@@ -19,7 +19,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Ex-members
 
-{% include list.html data="members" component="portrait" style="small" filters="ex-member: true" %}
+{% include list.html data="members" component="portrait" style="small" filters= "ex-member: true" %}
 
 {% include section.html background="images/site/background.jpg" dark=true %}
 

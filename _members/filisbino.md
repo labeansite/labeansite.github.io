@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Filisbino Junior
 image: images/team/member.jpg
-role: phd
+role: undergrad
 ex-member: true
 links:
   github: john-doe

@@ -6,6 +6,18 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+technician:
+  icon: fa-solid fa-tools
+  description: Technician
+
+intern:
+  icon: fa-solid fa-id-badge
+  description: Intern
+
+specialist:
+  icon: fa-solid fa-gear
+  description: Specialist
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -71,6 +83,12 @@ search:
   tooltip: Search
 
 # social media
+
+lattes:
+  icon: fa-solid fa-arrow-up-right-from-square
+  text: Lattes
+  tootip: Lattes
+  link: http://lattes.cnpq.br/$VALUE
 
 orcid:
   icon: orcid.svg

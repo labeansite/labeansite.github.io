@@ -6,6 +6,9 @@
     <a
       class="button"
       href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
+      {% if include.newTab != false %}
+        target="_blank"
+      {% endif %}
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip }}"
       {% endif %}

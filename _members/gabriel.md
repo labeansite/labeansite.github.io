@@ -1,12 +1,10 @@
 ---
-name: Sarah Johnson
-image: images/team/member.jpg
-description: Lead Programmer
-role: programmer
+name: Gabriel Morais
+image: images/team/gabriel.jpg
+role: technician
 ex-member: false
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  github: john-doe
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

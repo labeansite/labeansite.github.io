@@ -22,6 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+  newTab=false
 %}
 
 {% endcapture %}
@@ -40,11 +41,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
+  link="facilities"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+  newTab=false
 %}
 
 {% endcapture %}
@@ -57,6 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
+  
 %}
 
 {% capture text %}
@@ -70,6 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+  newTab=false
 %}
 
 {% endcapture %}
