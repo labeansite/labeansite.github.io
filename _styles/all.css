@@ -8,4 +8,13 @@ html, body {
   min-height: 100vh;
 }
 
+.body-div {
+  height: 100%;
+  min-height: 100vh;
+  overflow-x: clip;
+  display: inherit;
+  flex-direction: inherit;
+  text-align: inherit;
+}
+
 /*# sourceMappingURL=all.css.map */
