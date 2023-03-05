@@ -4,9 +4,9 @@
 
 {% if button.link or button.icon or button.text %}
   <div class="button-wrapper">
-    {% if include.type == "email"  %}
+    {% if include.type == "email" or include.type == "phone" %}
       <a
-        class="button email-button"
+        class="button clipboard-button"
         data-clipboard-text="{{ value }}"
         {% if include.newTab != false %}
           target="_blank"

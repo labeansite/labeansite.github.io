@@ -9,7 +9,7 @@
     // make sure Tippy library available and the user
     if (typeof tippy === "undefined") return;
 
-    tippy('.email-button', {
+    tippy('.clipboard-button', {
       content: 'Click to copy', 
       trigger: 'mouseenter click',
       interactive: true,
