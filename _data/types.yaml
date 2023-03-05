@@ -87,7 +87,7 @@ search:
 lattes:
   icon: lattes.svg
   text: Lattes
-  tootip: Lattes
+  tooltip: Lattes
   link: http://lattes.cnpq.br/$VALUE
 
 orcid:

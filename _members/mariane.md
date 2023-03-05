@@ -4,7 +4,7 @@ image: images/team/mariane.jpg
 role: intern
 ex-member: false
 links:
-  email: m184652@dac.unicamp.br  
+  email: m184652@dac.unicamp.br
   lattes: "5788501413906324"
 
 ---

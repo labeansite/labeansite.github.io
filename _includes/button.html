@@ -6,13 +6,10 @@
   <div class="button-wrapper">
     {% if include.type == "email"  %}
       <a
-        class="button"
-        onclick="copy('{{ value }}');"
+        class="button email-button"
+        data-clipboard-text="{{ value }}"
         {% if include.newTab != false %}
           target="_blank"
-        {% endif %}
-        {% if button.tooltip %}
-          data-tooltip="{{ button.tooltip }}"
         {% endif %}
         {% if include.style %}
           data-style="{{ include.style }}"
