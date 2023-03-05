@@ -138,6 +138,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(3px);
   padding: 35px 20px;
 }
 header[data-big] .logo {
