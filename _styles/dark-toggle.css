@@ -35,10 +35,15 @@
 .dark-side-toggle {
   position: fixed;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-100%, -50%);
   padding: 6px;
   z-index: 9;
   transition: transform 0.35s;
+}
+@media (max-width: 1000px) {
+  .dark-side-toggle {
+    transform: translate(-50%, -50%);
+  }
 }
 
 @media (min-width: 700px) {
@@ -50,6 +55,9 @@
   .dark-side-toggle input:after {
     left: calc(100% - 12px) !important;
   }
+}
+.dark-side-toggle-show {
+  transform: translate(-50%, -50%);
 }
 
 /*# sourceMappingURL=dark-toggle.css.map */

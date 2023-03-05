@@ -20,4 +20,23 @@ footer .icon {
   font-size: var(--xl);
 }
 
+.site-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.site-info p {
+  margin: 0;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .site-info-bar {
+    display: none;
+  }
+  .site-info {
+    flex-direction: column;
+  }
+}
+
 /*# sourceMappingURL=footer.css.map */
