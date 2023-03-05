@@ -7,9 +7,9 @@ aliases:
   - Ricardo M. L.
   - Ricardo M. L. Silva
 links:
-  linkedin: https://www.linkedin.com/in/ricardo-magno-103b1691
+  linkedin: ricardo-magno-103b1691
   orcid: 0000-0001-5108-1179
-  google-scholar: https://scholar.google.com.br/citations?user=OGH_FtcAAAAJ&hl=pt-BR 
+  google-scholar: OGH_FtcAAAAJ&hl=pt-BR 
   lattes: 0709560787555147
 ---
 

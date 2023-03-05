@@ -5,7 +5,7 @@ role: intern
 ex-member: false
 links:
   email: marianadotta12@gmail.com
-  lattes: http://lattes.cnpq.br/2006424548495506
+  lattes: 2006424548495506
 
 ---
 
