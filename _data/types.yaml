@@ -88,7 +88,7 @@ lattes:
   icon: lattes.svg
   text: Lattes
   tootip: Lattes
-  link: http://lattes.cnpq.br/$VALUE
+  link: http://lattes.cnpq.br$VALUE
 
 orcid:
   icon: orcid.svg
