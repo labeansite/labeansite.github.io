@@ -6,13 +6,13 @@ prof:
   icon: fa-solid fa-lightbulb
   description: Professor
 
-devicetec:
-  icon: fa-solid fa-tools
-  description: Device Technician
-
 labtec:
   icon: fa-solid fa-flask
   description: Lab Technician
+
+devtec:
+  icon: fa-solid fa-tools
+  description: Device Technician
 
 intern:
   icon: fa-solid fa-id-badge

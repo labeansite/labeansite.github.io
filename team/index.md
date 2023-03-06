@@ -13,15 +13,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: prof, group: " %} 
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %} 
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %} 
-{% include list.html data="members" component="portrait" filters="role: specialist, group: " %} 
-{% include list.html data="members" component="portrait" filters="role: analist, group: " %} 
-{% include list.html data="members" component="portrait" filters="role: labtec, group: " %}
-{% include list.html data="members" component="portrait" filters="role: devicetec, group: " %}
-{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ic, group: " %}
+{% include list.html data="members" component="portrait" filters="role: prof, group: " %} {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %} {% include list.html data="members" component="portrait" filters="role: phd, group: " %} {% include list.html data="members" component="portrait" filters="role: specialist, group: " %} {% include list.html data="members" component="portrait" filters="role: analist, group: " %} {% include list.html data="members" component="portrait" filters="role: labtec, group: " %}{% include list.html data="members" component="portrait" filters="role: devtec, group: " %}{% include list.html data="members" component="portrait" filters="role: intern, group: " %}{% include list.html data="members" component="portrait" filters="role: ic, group: " %}
 
 {% include section.html %}
 

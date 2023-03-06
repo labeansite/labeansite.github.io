@@ -3,9 +3,15 @@
 
 {% include section.html size="full" %}{% include bgvideo.html %}{% include section.html %}
 
-# labeansite's Website
+# Slogan do Lab
 
-An engaging 1-3 sentence description of your lab. Teste.
+Descrição de 3 linhas aprox. sobre o lab.
+
+{%
+  include figure.html
+  image="images/home/group-photo.png"
+  width="100%"
+%}
 
 {% include section.html %}
 
@@ -42,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="facilities"
-  text="Browse our projects"
+  text="Meet the Lab"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -55,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Infrastructure"
   flip=true
   style="bare"
   text=text
