@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 4
-  tooltip: About our team
+  tooltip: Meet our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -13,7 +13,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="ex-member: false" %}
+{% include list.html data="members" component="portrait" filters="role: prof, group: " %} 
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %} 
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %} 
+{% include list.html data="members" component="portrait" filters="role: specialist, group: " %} 
+{% include list.html data="members" component="portrait" filters="role: analist, group: " %} 
+{% include list.html data="members" component="portrait" filters="role: labtechnician, group: " %}
+{% include list.html data="members" component="portrait" filters="role: devicetechnician, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ic, group: " %}
 
 {% include section.html %}
 

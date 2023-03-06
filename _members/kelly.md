@@ -1,12 +1,12 @@
 ---
-name: Gabriel Morais
-image: images/team/gabriel.jpg
-role: devicetechnician
+name: Kelly
+#image: images/team/gabriel.jpg
+role: phd
 ex-member: false
-aliases:
-  - "Morais"
+#aliases:
+#  - "Morais"
 links:
-  github: john-doe
+#  github: john-doe
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -2,24 +2,32 @@
 
 # team member roles
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+prof:
+  icon: fa-solid fa-lightbulb
+  description: Professor
 
-technician:
+devicetechnician:
   icon: fa-solid fa-tools
-  description: Technician
+  description: Device Technician
+
+labtechnician:
+  icon: fa-solid fa-flask
+  description: Lab Technician
 
 intern:
   icon: fa-solid fa-id-badge
   description: Intern
 
 specialist:
-  icon: fa-solid fa-gear
+  icon: fa-solid fa-microscope
   description: Specialist
 
+analist:
+  icon: fa-solid fa-microscope
+  description: Analist
+
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-magnifying-glass
   description: Postdoctoral Researcher
 
 phd:
@@ -29,6 +37,10 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+ic:
+  icon: fa-solid fa-chalkboard-user
+  description: Scientific Iniciation
 
 programmer:
   icon: fa-solid fa-code

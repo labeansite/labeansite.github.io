@@ -3,6 +3,9 @@ name: Ingrid Rodríguez
 image: images/team/ingrid.jpg
 role: specialist
 ex-member: false
+aliases:
+  - "Gutierrez"
+  - "Ingrid Rodriguez"
 links:
   orcid: 0000-0001-6345-7321
   linkedin: ingrid-rodriguez-266163205/

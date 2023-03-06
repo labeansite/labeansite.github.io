@@ -1,12 +1,12 @@
 ---
-name: Gabriel Morais
-image: images/team/gabriel.jpg
-role: devicetechnician
+name: Flavio Souza
+#image: images/team/gabriel.jpg
+role: prof
 ex-member: false
-aliases:
-  - "Morais"
+#aliases:
+#  - "Morais"
 links:
-  github: john-doe
+#  github: john-doe
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

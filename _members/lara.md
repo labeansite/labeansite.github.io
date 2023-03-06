@@ -3,6 +3,9 @@ name: Lara Daminelli
 image: images/team/lara.jpeg
 role: phd
 ex-member: false
+aliases:
+  - "Daminelli"
+  - "Lara"
 links:
   email: laramarquesdaminelli@gmail.com
   lattes: "7649841231085914"
