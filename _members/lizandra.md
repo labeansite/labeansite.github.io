@@ -1,7 +1,7 @@
 ---
 name: Lizandra
 #image: images/team/gabriel.jpg
-role: labtechnician
+role: labtec
 ex-member: false
 #aliases:
 #  - "Morais"

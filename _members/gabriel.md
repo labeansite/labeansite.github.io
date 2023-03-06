@@ -1,7 +1,7 @@
 ---
 name: Gabriel Morais
 image: images/team/gabriel.jpg
-role: devicetechnician
+role: devicetec
 ex-member: false
 aliases:
   - "Morais"

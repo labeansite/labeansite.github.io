@@ -6,11 +6,11 @@ prof:
   icon: fa-solid fa-lightbulb
   description: Professor
 
-devicetechnician:
+devicetec:
   icon: fa-solid fa-tools
   description: Device Technician
 
-labtechnician:
+labtec:
   icon: fa-solid fa-flask
   description: Lab Technician
 
