@@ -1,7 +1,7 @@
 ---
-name: Gustavo
-#image: images/team/gabriel.jpg
-role: phd
+name: Gustavo Morishita
+image: images/team/gustavo.jpeg
+role: postdoc
 ex-member: false
 #aliases:
 #  - "Morais"

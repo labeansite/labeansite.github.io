@@ -1065,6 +1065,7 @@
   publisher: Journal of the American Ceramic Society
   date: '2022-04-04'
   link: https://doi.org/grvhq3
+  image: images/research/ontheelectronloss.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D2TA03932J

@@ -1,10 +1,11 @@
 ---
-name: Lizandra
+name: Lizandra Peregrino
 #image: images/team/gabriel.jpg
 role: labtec
+aliases:
+    - "Peregrino"
+    - "Lizandra"
 ex-member: false
-#aliases:
-#  - "Morais"
 links:
 #  github: john-doe
 ---
