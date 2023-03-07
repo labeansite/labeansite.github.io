@@ -1,11 +1,14 @@
 ---
 ---
 
+$portraitwidth: 150px;
+
 .portrait-wrapper {
   display: contents;
 }
 
 .portrait {
+  position: relative;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -14,6 +17,24 @@
   margin: 20px;
   max-width: 100%;
   text-decoration: none;
+
+  .role {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: calc(0.13 * $portraitwidth);
+    top: calc(0.13 * $portraitwidth);
+    margin: 0;
+    width: calc(0.25 * $portraitwidth);
+    height: calc(0.25 * $portraitwidth);
+    font-size: calc(16 * $portraitwidth / 150);
+    background: var(--light-gray);
+    color: var(--text);
+    border-radius: 999px;
+    transform: translate(-50%, -50%);
+    box-shadow: var(--shadow);
+  }
 }
 
 .portrait[data-style="tiny"] {
@@ -38,12 +59,12 @@
   width: 50px;
 }
 
-.portrait[data-style="small"] .portrait-role {
-  display: none;
-}
-
-.portrait[data-style="tiny"] .portrait-role {
-  display: none;
+.portrait {
+  &[data-style="small"], &[data-style="tiny"] {
+    .portrait-role, .role {
+      display: none;
+    }
+  }
 }
 
 .portrait-text {
