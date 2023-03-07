@@ -16,6 +16,7 @@
     class="portrait"
     data-style="{{ include.style }}"
   >
+
     <img
       src="{{ member.image | relative_url }}"
       class="portrait-image"
@@ -31,13 +32,32 @@
           </span>
         {% endif %}
 
-        {% if member.role or member.description %}
-          <span class="portrait-role">
-            {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
-          </span>
+        {% if include.simplerole != false -%}
+
+          {%- assign role = member.role | default: "" -%}
+          {%- assign type = site.data.types[role] -%}
+      
+          {% if type -%}
+            {%- assign icon = type.icon -%}
+            <div class="role" data-tooltip="{{ type.description }}">
+              {%- if icon -%}
+                <i class="{{ icon }}"></i>
+              {%- endif -%}
+            </div>
+          {%- endif %}
+        
+        {% else -%}
+        
+          {% if member.role or member.description %}
+            <span class="portrait-role">
+              {% assign type = site.data.types[member.role] %}
+              {% include icon.html icon=type.icon %}
+              <span>{{ member.description | default: type.description }}</span>
+            </span>
+          {% endif %}
+
         {% endif %}
+
       </span>
     {% endif %}
   </{{ tag }}>
