@@ -59,12 +59,12 @@ $portraitwidth: 150px;
   width: 50px;
 }
 
-.portrait[data-style="small"] .portrait-role {
-  display: none;
-}
-
-.portrait[data-style="tiny"] .portrait-role {
-  display: none;
+.portrait {
+  &[data-style="small"], &[data-style="tiny"] {
+    .portrait-role, .role {
+      display: none;
+    }
+  }
 }
 
 .portrait-text {
