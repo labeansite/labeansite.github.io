@@ -53,11 +53,7 @@
   width: 50px;
 }
 
-.portrait[data-style=small] .portrait-role {
-  display: none;
-}
-
-.portrait[data-style=tiny] .portrait-role {
+.portrait[data-style=small] .portrait-role, .portrait[data-style=small] .role, .portrait[data-style=tiny] .portrait-role, .portrait[data-style=tiny] .role {
   display: none;
 }
 
