@@ -17,24 +17,6 @@ $portraitwidth: 150px;
   margin: 20px;
   max-width: 100%;
   text-decoration: none;
-
-  .role {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    left: calc(0.13 * $portraitwidth);
-    top: calc(0.13 * $portraitwidth);
-    margin: 0;
-    width: calc(0.25 * $portraitwidth);
-    height: calc(0.25 * $portraitwidth);
-    font-size: calc(16 * $portraitwidth / 150);
-    background: var(--light-gray);
-    color: var(--text);
-    border-radius: 999px;
-    transform: translate(-50%, -50%);
-    box-shadow: var(--shadow);
-  }
 }
 
 .portrait[data-style="tiny"] {
@@ -80,4 +62,36 @@ $portraitwidth: 150px;
 
 .portrait-role .icon {
   margin-right: 0.5em;
+}
+
+.portrait-role {
+  display: none;
+  @media (max-width: 700px) {
+    display: block;
+  }
+}
+
+.role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: calc(0.13 * $portraitwidth);
+  top: calc(0.13 * $portraitwidth);
+  margin: 0;
+  width: calc(0.25 * $portraitwidth);
+  height: calc(0.25 * $portraitwidth);
+  font-size: calc(16 * $portraitwidth / 150);
+  background: var(--light-gray);
+  color: var(--text);
+  border-radius: 999px;
+  transform: translate(-50%, -50%);
+  box-shadow: var(--shadow);
+  @media (max-width: 700px) {
+    display: none;
+  }
+}
+
+.always-visible {
+  display: block;
 }
