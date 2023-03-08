@@ -13,23 +13,6 @@
   max-width: 100%;
   text-decoration: none;
 }
-.portrait .role {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  left: 19.5px;
-  top: 19.5px;
-  margin: 0;
-  width: 37.5px;
-  height: 37.5px;
-  font-size: 16px;
-  background: var(--light-gray);
-  color: var(--text);
-  border-radius: 999px;
-  transform: translate(-50%, -50%);
-  box-shadow: var(--shadow);
-}
 
 .portrait[data-style=tiny] {
   flex-direction: row;
@@ -70,6 +53,42 @@
 
 .portrait-role .icon {
   margin-right: 0.5em;
+}
+
+.portrait-role {
+  display: none;
+}
+@media (max-width: 700px) {
+  .portrait-role {
+    display: block;
+  }
+}
+
+.role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 19.5px;
+  top: 19.5px;
+  margin: 0;
+  width: 37.5px;
+  height: 37.5px;
+  font-size: 16px;
+  background: var(--light-gray);
+  color: var(--text);
+  border-radius: 999px;
+  transform: translate(-50%, -50%);
+  box-shadow: var(--shadow);
+}
+@media (max-width: 700px) {
+  .role {
+    display: none;
+  }
+}
+
+.always-visible {
+  display: block;
 }
 
 /*# sourceMappingURL=portrait.css.map */
