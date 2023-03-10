@@ -3,6 +3,20 @@
 
 {% include section.html size="full" %}{% include bgvideo.html %}{% include section.html %}
 
+# Latest News
+
+{% include latest-news.html amount=3 %}
+
+{%
+  include button.html
+  link="news"
+  text="See more"
+  icon="fa-solid fa-arrow-right"
+  newTab=false
+%}
+
+{% include section.html %}
+
 # Slogan do Lab
 
 Descrição de 3 linhas aprox. sobre o lab.
