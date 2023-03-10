@@ -5,7 +5,7 @@
     --navbar-height: 0px;
 }
 
-.wrapper-bgvideo, .wrapper-bgvideo.roulette__video-container {
+.wrapper-bgvideo {
     object-fit: cover;
 
     margin-top: calc(-1 * var(--navbar-height)) !important;
@@ -40,16 +40,6 @@
     align-items: center;
 
     color: white;
-}
-
-.roulette__video-container.playing {
-    transform: translateX(0%);
-    transition: transform 0.5s ease-out;
-}
-
-.roulette__video-container.loading {
-    transform: translateX(-100%);
-    transition: transform 0.5s ease-out;
 }
 
 .bgvideo-title {
@@ -112,24 +102,6 @@
     height: 7px;
     background-color: var(--primary);
     border-radius: 5px;
-}
-
-.roulette__buttons {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    justify-content: center;
-    z-index: 10;
-}
-
-.roulette__button {
-    margin: 0 10px;
-    padding: 10px;
-    background-color: #fff;
-    border: none;
-    cursor: pointer;
 }
 
 .bgvideo::-webkit-media-controls {
