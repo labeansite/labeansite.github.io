@@ -99,6 +99,24 @@
   border-radius: 5px;
 }
 
+.roulette__buttons {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  z-index: 10;
+}
+
+.roulette__button {
+  margin: 0 10px;
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
 .bgvideo::-webkit-media-controls {
   display: none !important;
 }

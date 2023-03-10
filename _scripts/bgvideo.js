@@ -32,6 +32,37 @@
             // Add listeners to the media query objects
             mq1000.addEventListener('change', updateNavbarHeight);
             mq700.addEventListener('change', updateNavbarHeight);
+            
+            // Get the roulette video element
+            const rouletteVideo = document.getElementById('roulette-video');
+
+            // Get the roulette button elements
+            const button1 = document.getElementById('button1');
+            const button2 = document.getElementById('button2');
+            const button3 = document.getElementById('button3');
+
+            // Add click event listeners to each button
+            button1.addEventListener('click', () => {
+            // Load and play the first video
+            rouletteVideo.src = './videos/video1.mp4';
+            rouletteVideo.load();
+            rouletteVideo.play();
+            });
+
+            button2.addEventListener('click', () => {
+            // Load and play the second video
+            rouletteVideo.src = './videos/video2.mp4';
+            rouletteVideo.load();
+            rouletteVideo.play();
+            });
+
+            button3.addEventListener('click', () => {
+            // Load and play the third video
+            rouletteVideo.src = './videos/video3.mp4';
+            rouletteVideo.load();
+            rouletteVideo.play();
+            });
+
         }
     };
     
