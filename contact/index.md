@@ -1,8 +1,8 @@
 ---
 title: Contact
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 7
+  tooltip: Find us
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
