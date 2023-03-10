@@ -32,50 +32,6 @@
             // Add listeners to the media query objects
             mq1000.addEventListener('change', updateNavbarHeight);
             mq700.addEventListener('change', updateNavbarHeight);
-            
-            const rouletteVideo = document.getElementById("roulette-video");
-            const videoContainer = document.querySelector(".roulette__video-container");
-            const buttons = document.querySelectorAll(".roulette__button");
-
-            buttons.forEach((button) => {
-                button.addEventListener("click", () => {
-                    // Get the video source file for the clicked button
-                    const src = button.dataset.video;
-
-                    // Pause the current video and reset its playback position
-                    rouletteVideo.pause();
-                    rouletteVideo.currentTime = 0;
-
-                    // Remove the "playing" class from the current video container
-                    videoContainer.classList.remove("playing");
-
-                    // Add the "loading" class to the video container
-                    videoContainer.classList.add("loading");
-
-                    // Create a new video element to load the next video
-                    const newVideo = document.createElement("video");
-                    newVideo.src = src;
-
-                    // When the new video is loaded, switch it with the current video
-                    newVideo.addEventListener("loadedmetadata", () => {
-                        // Remove the "loading" class from the video container
-                        videoContainer.classList.remove("loading");
-
-                        // Add the "playing" class to the video container
-                        videoContainer.classList.add("playing");
-
-                        // Replace the current video with the new video
-                        rouletteVideo.parentNode.replaceChild(newVideo, rouletteVideo);
-
-                        // Set the new video as the current video
-                        rouletteVideo = newVideo;
-                    });
-
-                    // Load the new video
-                    newVideo.load();
-                });
-            });
-
         }
     };
     
