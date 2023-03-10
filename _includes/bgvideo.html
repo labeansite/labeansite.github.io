@@ -1,7 +1,9 @@
 <div width="100%" class="wrapper-bgvideo">
-    <video width="100%" class="bgvideo" preload="auto" muted autoplay loop>
-        <source src="./videos/video.mp4" type="video/mp4">
-    </video>
+    <div class="roulette__video-container">
+        <video id="roulette-video" class="bgvideo" preload="auto" muted autoplay loop>
+            <source src="./videos/video1.mp4" type="video/mp4">
+        </video>
+    </div>
     <div class="bgvideo-title-container">
         <div class="bgvideo-title-text-container">
             <div class="bgvideo-title">
@@ -20,5 +22,10 @@
                 <i class="fa-solid fa-chevron-down video-scroll-button fa-fade"></i>
             </div>
         </div>
+    </div>
+    <div class="roulette__buttons">
+        <button id="button1" class="roulette__button">Video 1</button>
+        <button id="button2" class="roulette__button">Video 2</button>
+        <button id="button3" class="roulette__button">Video 3</button>
     </div>
 </div>
