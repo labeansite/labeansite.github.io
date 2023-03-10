@@ -33,34 +33,47 @@
             mq1000.addEventListener('change', updateNavbarHeight);
             mq700.addEventListener('change', updateNavbarHeight);
             
-            // Get the roulette video element
-            const rouletteVideo = document.getElementById('roulette-video');
+            const rouletteVideo = document.getElementById("roulette-video");
+            const videoContainer = document.querySelector(".roulette__video-container");
+            const buttons = document.querySelectorAll(".roulette__button");
 
-            // Get the roulette button elements
-            const button1 = document.getElementById('button1');
-            const button2 = document.getElementById('button2');
-            const button3 = document.getElementById('button3');
+            buttons.forEach((button) => {
+                button.addEventListener("click", () => {
+                    // Get the video source file for the clicked button
+                    const src = button.dataset.video;
 
-            // Add click event listeners to each button
-            button1.addEventListener('click', () => {
-            // Load and play the first video
-            rouletteVideo.src = './videos/video1.mp4';
-            rouletteVideo.load();
-            rouletteVideo.play();
-            });
+                    // Pause the current video and reset its playback position
+                    rouletteVideo.pause();
+                    rouletteVideo.currentTime = 0;
 
-            button2.addEventListener('click', () => {
-            // Load and play the second video
-            rouletteVideo.src = './videos/video2.mp4';
-            rouletteVideo.load();
-            rouletteVideo.play();
-            });
+                    // Remove the "playing" class from the current video container
+                    videoContainer.classList.remove("playing");
 
-            button3.addEventListener('click', () => {
-            // Load and play the third video
-            rouletteVideo.src = './videos/video3.mp4';
-            rouletteVideo.load();
-            rouletteVideo.play();
+                    // Add the "loading" class to the video container
+                    videoContainer.classList.add("loading");
+
+                    // Create a new video element to load the next video
+                    const newVideo = document.createElement("video");
+                    newVideo.src = src;
+
+                    // When the new video is loaded, switch it with the current video
+                    newVideo.addEventListener("loadedmetadata", () => {
+                        // Remove the "loading" class from the video container
+                        videoContainer.classList.remove("loading");
+
+                        // Add the "playing" class to the video container
+                        videoContainer.classList.add("playing");
+
+                        // Replace the current video with the new video
+                        rouletteVideo.parentNode.replaceChild(newVideo, rouletteVideo);
+
+                        // Set the new video as the current video
+                        rouletteVideo = newVideo;
+                    });
+
+                    // Load the new video
+                    newVideo.load();
+                });
             });
 
         }
