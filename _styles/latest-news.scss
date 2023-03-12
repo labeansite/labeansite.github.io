@@ -1,0 +1,36 @@
+---
+---
+
+.latest-news-container {
+    .cols {
+        gap: 0px;
+        align-items: stretch;
+
+        // @media (max-width: 750px) {
+        //     gap: 30px;
+        // }
+    }
+
+    .cols {
+        div .card {
+            height: 100%;
+
+            .card-text {
+                height: 100%;
+                justify-content: flex-start;
+            }
+            
+            .card-text > *:first-child {
+              align-self: flex-start; /* align first child to top */
+            }
+            
+            .card-text > *:nth-child(2) {
+              margin-top: auto; /* push second child to bottom */
+            }
+            
+            .card-text > *:last-child {
+              align-self: flex-end; /* align last child to bottom */
+            }
+        }
+    }
+}
