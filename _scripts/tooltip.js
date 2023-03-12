@@ -67,6 +67,10 @@ function clipboardTippy(e) { // define here because it`s used in anchors.js
       appendTo: () => document.body,
       // onHide: () => false, // debug
     });
+
+    document.querySelectorAll("nav [data-tooltip]").forEach((element) => {
+      element._tippy.setProps({ interactive: false })
+    });
   };
 
   // after page loads
