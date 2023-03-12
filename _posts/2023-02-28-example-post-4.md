@@ -80,4 +80,11 @@ Texto após outra quebra de seção
 
 ## Vídeo
 
-![](https://www.youtube.com/watch?v=Ttl8Gg-P-Ao)
+![](https://www.youtube.com/watch?v=worP6qwyBGQ)
+{:.full}
+
+![](https://www.dailymotion.com/video/x7tfyq3)
+{:.full}
+
+![](https://vimeo.com/263856289)
+{:.full}
