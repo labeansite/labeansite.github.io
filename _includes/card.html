@@ -40,5 +40,9 @@
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
+    
+    {% if include.button %}
+      {{ include.button }}
+    {% endif %}
   </div>
 </div>

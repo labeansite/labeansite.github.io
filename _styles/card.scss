@@ -21,7 +21,7 @@
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   // box-shadow: var(--shadow);
 }
@@ -45,7 +45,17 @@
   font-weight: var(--semi-bold);
 }
 
+a.card-title {
+  color: var(--text);
+  text-decoration: none;
+
+}
+
 .card-subtitle {
   margin-top: -15px;
   font-style: italic;
+}
+
+.card .button-wrapper .button {
+  margin-top: -15px;
 }

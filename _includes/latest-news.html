@@ -6,37 +6,127 @@
 
 {% assign data = data | sort: "date" | reverse %}
 
-{% for d in data limit:include.amount %}
+
+{% assign d = data[0] %}
+
+{% assign published = d.date | date: "%B %d, %Y" %}
+{% capture date1 %}
+<div class="post-info">
+  <span data-tooltip="Published on">
+    {% include icon.html icon="fa-regular fa-calendar" %}
+    <span>{{ published }}</span>
+  </span>
+</div>
+{% endcapture %}
+
+{% capture button1 %}
 {%
-    include post-excerpt.html
-    author=d.author
-    authors=d.authors
-    buttons=d.buttons
-    caption=d.caption
-    content=d.content
-    date=d.date
-    description=d.description
-    excerpt=d.excerpt
-    height=d.height
-    icon=d.icon
-    id=d.id
-    image=d.image
-    last_modified_at=d.last_modified_at
-    link=d.link
-    lookup=d.lookup
-    name=d.name
-    publisher=d.publisher
-    repo=d.repo
-    role=d.role
-    slug=d.slug
-    style=d.style
-    subtitle=d.subtitle
-    tags=d.tags
-    text=d.text
-    title=d.title
-    tooltip=d.tooltip
-    type=d.type
-    url=d.url
-    width=d.width
+  include button.html
+  link=d.url
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+  newTab=false
 %}
-{% endfor %}
+{% endcapture %}
+
+{% capture col1 %}
+
+{%
+  include card.html
+  title=d.title
+  subtitle=date1
+  image=d.image
+  description=d.description
+  link=d.url
+  button=button1
+%}
+
+{% endcapture %}
+
+
+{% assign d = data[1] %}
+
+{% assign published = d.date | date: "%B %d, %Y" %}
+{% capture date2 %}
+<div class="post-info">
+  <span data-tooltip="Published on">
+    {% include icon.html icon="fa-regular fa-calendar" %}
+    <span>{{ published }}</span>
+  </span>
+</div>
+{% endcapture %}
+
+{% capture button2 %}
+{%
+  include button.html
+  link=d.url
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+  newTab=false
+%}
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include card.html
+  title=d.title
+  subtitle=date2
+  image=d.image
+  description=d.description
+  link=d.url
+  button=button2
+%}
+
+{% endcapture %}
+
+
+{% assign d = data[2] %}
+
+{% assign published = d.date | date: "%B %d, %Y" %}
+{% capture date3 %}
+<div class="post-info">
+  <span data-tooltip="Published on">
+    {% include icon.html icon="fa-regular fa-calendar" %}
+    <span>{{ published }}</span>
+  </span>
+</div>
+{% endcapture %}
+
+{% capture button3 %}
+{%
+  include button.html
+  link=d.url
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+  newTab=false
+%}
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include card.html
+  title=d.title
+  subtitle=date3
+  image=d.image
+  description=d.description
+  link=d.url
+  button=button3
+%}
+
+{% endcapture %}
+
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+  col3=col3
+%}

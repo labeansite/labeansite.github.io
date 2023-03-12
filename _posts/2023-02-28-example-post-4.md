@@ -3,6 +3,7 @@ title: Post Teste/Tutorial
 tags:
 author: Thiago
 member:
+image: images/posts/example-post-4/img.png
 ---
 
 ## Markdown
