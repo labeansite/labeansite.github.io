@@ -13,9 +13,9 @@
   object-fit: cover;
   vertical-align: middle;
 }
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .bgvideo {
-    min-height: 45vh;
+    min-height: 50vh;
   }
 }
 
@@ -48,7 +48,7 @@
   font-family: "Montserrat", sans-serif;
   font-size: calc(2 * (1vw + 1vh + 0.5vmin));
 }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .bgvideo-title h1 {
     font-size: calc(1.75 * (1vw + 1vh + 0.5vmin));
   }
@@ -61,7 +61,7 @@
   margin-top: 20px;
   border-bottom: none;
 }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .bgvideo-title h2 {
     font-size: calc(1.25 * (1vw + 1vh + 0.5vmin));
   }
@@ -74,7 +74,7 @@
   justify-content: center;
   flex-direction: column;
 }
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .video-scroll-button-container {
     display: none;
   }

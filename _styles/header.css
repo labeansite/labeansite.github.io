@@ -31,6 +31,8 @@ header a {
 }
 
 .logo > * {
+  object-fit: contain;
+  width: auto;
   height: 100%;
 }
 
@@ -93,8 +95,9 @@ header .navbar-toggle-icon-bar {
   background-color: var(--text);
   margin: 5px 0;
 }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   header {
+    flex-direction: row !important;
     justify-content: flex-end;
   }
   header .nav-toggle {
@@ -133,11 +136,16 @@ header .navbar-toggle-icon-bar {
     display: block;
   }
 }
+@media (max-width: 1200px) {
+  header .title > *:not(:first-child) {
+    display: none;
+  }
+}
 
 header[data-big] {
   justify-content: center;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(3px);
   padding: 35px 20px;
 }
@@ -156,10 +164,15 @@ header[data-big] .title > *:last-child {
 header[data-big] nav {
   font-size: 1.25em;
 }
-
-@media (max-width: 1000px) {
-  .title > *:not(:first-child) {
+@media (max-width: 1350px) {
+  header[data-big] .title > *:not(:first-child) {
     display: none;
+  }
+}
+@media (max-width: 1100px) {
+  header[data-big] {
+    flex-direction: column;
+    justify-content: center;
   }
 }
 

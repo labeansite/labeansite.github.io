@@ -27,8 +27,8 @@
     
             updateNavbarHeight(); // sets initial value
     
-            const mq1000 = window.matchMedia('(max-width: 1000px)');
-            const mq700 = window.matchMedia('(max-width: 700px)');
+            const mq1000 = window.matchMedia('(max-width: 1100px)');
+            const mq700 = window.matchMedia('(max-width: 900px)');
             // Add listeners to the media query objects
             mq1000.addEventListener('change', updateNavbarHeight);
             mq700.addEventListener('change', updateNavbarHeight);
