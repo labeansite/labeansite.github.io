@@ -12,9 +12,12 @@
       // create anchor link
       const link = document.createElement("a");
       link.classList.add("icon", "fa-solid", "fa-link", "anchor");
-      link.href = "#" + heading.id;
+      // link.href = "#" + heading.id;
       link.setAttribute("aria-label", "link to this section");
       heading.append(link);
+
+      link.setAttribute("data-clipboard-text", window.location.href.split("#")[0] + "#" + heading.id);
+      clipboardTippy(link)
 
       // if first heading in the section, move id from heading to parent section
       const parent = heading.parentElement;
@@ -30,10 +33,7 @@
     const target = document.getElementById(id);
     if (!target) return;
     const offset = document.querySelector("header").clientHeight || 0;
-    window.scrollTo({
-      top: target.getBoundingClientRect().top + window.scrollY - offset,
-      behavior: "smooth",
-    });
+    window.scrollTo({ top: target.getBoundingClientRect().top + window.scrollY - offset });
   };
 
   // after page loads
