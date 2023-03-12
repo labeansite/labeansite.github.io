@@ -6,7 +6,7 @@
   <div class="button-wrapper">
     {% if include.type == "email" or include.type == "phone" %}
       <a
-        class="button clipboard-button"
+        class="button"
         data-clipboard-text="{{ value }}"
         {% if include.newTab != false %}
           target="_blank"
