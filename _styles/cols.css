@@ -3,7 +3,7 @@
   --repeat: min(3, var(--cols));
   grid-template-columns: repeat(var(--repeat), 1fr);
   align-items: flex-start;
-  gap: 40px;
+  gap: 10px;
   margin: 40px 0;
 }
 
