@@ -4,8 +4,10 @@
 $logo-big: 80px;
 $logo: 40px;
 $big-padding: 35px;
-$collapse: 700px;
-$limit-title: 1000px;
+$collapse: 900px;
+$limit-subtitle-big: 1350px;
+$limit-sidebyside-big: 1100px;
+$limit-subtitle-normal: 1200px;
 $sticky: true;
 
 header {
@@ -44,6 +46,8 @@ header a {
 }
 
 .logo > * {
+  object-fit: contain;
+  width: auto;
   height: 100%;
 }
 
@@ -114,6 +118,7 @@ header {
   }
 
   @media (max-width: $collapse) {
+    flex-direction: row !important;
     justify-content: flex-end;
 
     .nav-toggle {
@@ -158,12 +163,18 @@ header {
       display: block;
     }
   }
+
+  @media (max-width: $limit-subtitle-normal) {
+    .title > *:not(:first-child) {
+      display: none;
+    }
+  }
 }
 
 header[data-big] {
   justify-content: center;
   align-items: center;
-  background-color: rgba(0,0,0,0.7);
+  background-color: rgba(0,0,0,0.5);
   backdrop-filter: blur(3px);
   padding: $big-padding 20px;
 
@@ -186,10 +197,17 @@ header[data-big] {
   nav {
     font-size: 1.25em;
   }
+
+  @media (max-width: $limit-subtitle-big) {
+    .title > *:not(:first-child) {
+      display: none;
+    }
+  }
+  
+  @media (max-width: $limit-sidebyside-big) {
+    flex-direction: column;
+    justify-content: center;
+  }
+  
 }
 
-@media (max-width: $limit-title) {
-  .title > *:not(:first-child) {
-    display: none;
-  }
-}

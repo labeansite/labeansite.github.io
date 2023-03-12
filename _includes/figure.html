@@ -1,5 +1,7 @@
 <figure class="figure">
-  <a href="{{ include.link | relative_url }}" class="figure-link">
+  {% if include.link %}
+    <a href="{{ include.link | relative_url }}" class="figure-link">
+  {% endif %}
     <img
       src="{{ include.image | relative_url }}"
       class="figure-image"
@@ -12,7 +14,9 @@
       loading="lazy"
       {% include fallback.html %}
     >
-  </a>
+  {% if include.link %}
+    </a>
+  {% endif %}
   {% if include.caption %}
     <figcaption class="figure-caption">
       {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
