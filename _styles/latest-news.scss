@@ -1,36 +1,66 @@
 ---
 ---
 
+$two: 900px;
+$one: 650px;
+
 .latest-news-container {
-    .cols {
-        gap: 0px;
-        align-items: stretch;
+  .cols {
+    @media (min-width: $one) {
+      gap: 0px;
+      align-items: stretch;
 
-        // @media (max-width: 750px) {
-        //     gap: 30px;
-        // }
-    }
-
-    .cols {
-        div .card {
-            height: 100%;
-
-            .card-text {
-                height: 100%;
-                justify-content: flex-start;
-            }
-            
-            .card-text > *:first-child {
-              align-self: flex-start; /* align first child to top */
-            }
-            
-            .card-text > *:nth-child(2) {
-              margin-top: auto; /* push second child to bottom */
-            }
-            
-            .card-text > *:last-child {
-              align-self: flex-end; /* align last child to bottom */
-            }
+      @media (max-width: $two) {
+        >*:last-child {
+          margin-top: 40px;
         }
+      }
     }
+  }
+
+  .cols {
+    div .card {
+      @media (min-width: $one) {
+        height: 100%;
+
+        .card-text {
+          height: 100%;
+          justify-content: flex-start;
+        }
+
+        .card-text>*:first-child {
+          align-self: flex-start;
+          /* align first child to top */
+        }
+
+        .card-text>*:nth-child(2) {
+          margin-top: auto;
+          /* push second child to bottom */
+        }
+
+        .card-text>*:last-child {
+          align-self: flex-end;
+          /* align last child to bottom */
+        }
+      }
+    }
+  }
+
+  @media (max-width: $two) {
+    .cols {
+      --repeat: min(2, var(--cols));
+    }
+    .cols > :nth-last-child(1) {
+      transform: translateX(50%);
+    }
+  }
+
+  @media (max-width: $one) {
+    .cols {
+      --repeat: min(1, var(--cols));
+    }
+    .cols > :nth-last-child(1) {
+      transform: translateX(0%);
+    }
+  }
 }
